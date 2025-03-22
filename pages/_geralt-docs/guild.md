@@ -8,7 +8,7 @@ collection: geralt_docs
 ---
 # Guild Cog
 
-Tools for admins to manage the guild efficiently. 
+Tools for admins to manage the guild efficiently.
 
 <span class="cb">&lt;arg&gt;</span> = required argument.<br>
 <span class="cb">[arg]</span> = optional argument.<br>
@@ -80,7 +80,7 @@ No need to type out <> and [].
     sub_commands_data=site.data.geralt.verification
 %}
 
-{% 	
+{%
     include paginate.html
 	back="/geralt-docs/fun.html"
 	next="/geralt-docs/listeners.html"

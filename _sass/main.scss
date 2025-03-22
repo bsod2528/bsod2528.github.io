@@ -1,24 +1,25 @@
 // core styles
-@import "base.scss";
+@use "base.scss";
 
 // alerts
-@import "alerts/info.scss";
-@import "alerts/warning.scss";
-@import "alerts/deprecated.scss";
+@use "alerts/info.scss";
+@use "alerts/warning.scss";
+@use "alerts/deprecated.scss";
 
 // stuff like adding boxes and other misc styles || meta
-@import "meta/diff.scss";
-@import "meta/box-1.scss";
-@import "meta/purple.scss";
-@import "meta/venture.scss";
-@import "meta/paginate.scss";
-@import "meta/codeblock.scss";
-@import "meta/tech-stack.scss";
+@use "meta/go.scss";
+@use "meta/diff.scss";
+@use "meta/box-1.scss";
+@use "meta/purple.scss";
+@use "meta/venture.scss";
+@use "meta/paginate.scss";
+@use "meta/codeblocks.scss";
+@use "meta/tech-stack.scss";
 
 // discord bot docs styles
-@import "bot/command.scss";
+@use "bot/command.scss";
 
 // blog related
-@import "blog/card.scss";
-@import "blog/media.scss";
-@import "blog/details.scss";
+@use "blog/card.scss";
+@use "blog/media.scss";
+@use "blog/details.scss";

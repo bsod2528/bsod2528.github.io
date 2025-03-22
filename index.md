@@ -24,24 +24,16 @@ I learn new stuff as I'm either interested in them or I need to use them in my l
             <span class="li-worked-with">[<span class="diff-knowledge">++++</span><span class="diff-practical">--</span>]</span>
         </li>
         <li class="li-stack">
-            <span class="li-lang">C++</span>
-            <span class="li-worked-with">[<span class="diff-knowledge">++</span><span class="diff-practical">-</span>]</span>
-        </li>
-        <li class="li-stack">
-            <span class="li-lang">ESP32</span>
-            <span class="li-worked-with">[<span class="diff-knowledge">++++</span><span class="diff-practical">----</span>]</span>
-        </li>
-        <li class="li-stack">
             <span class="li-lang">Python</span>
             <span class="li-worked-with">[<span class="diff-knowledge">++++++</span><span class="diff-practical">-----</span>]</span>
         </li>
         <li class="li-stack">
-            <span class="li-lang">PostgreSQL</span>
-            <span class="li-worked-with">[<span class="diff-knowledge">++</span><span class="diff-practical">---</span>]</span>
+            <span class="li-lang">Verilog</span>
+            <span class="li-worked-with">[<span class="diff-knowledge">+++</span><span class="diff-practical">---</span>]</span>
         </li>
         <li class="li-stack">
-            <span class="li-lang">React-Native</span>
-            <span class="li-worked-with">[<span class="diff-knowledge">+++</span><span class="diff-practical">--</span>]</span>
+            <span class="li-lang">PostgreSQL</span>
+            <span class="li-worked-with">[<span class="diff-knowledge">++</span><span class="diff-practical">---</span>]</span>
         </li>
     </ul>
 </div>

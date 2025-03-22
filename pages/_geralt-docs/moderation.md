@@ -8,7 +8,7 @@ collection: geralt_docs
 ---
 # Moderation Cog
 
-A set of tools which allows moderating the server something very easy. 
+A set of tools which allows moderating the server something very easy.
 
 <span class="cb">&lt;arg&gt;</span> = required argument.<br>
 <span class="cb">[arg]</span> = optional argument.<br>
@@ -106,7 +106,7 @@ No need to type out <> and [].
     subcmd=false
 %}
 
-{% 	
+{%
     include paginate.html
 	back="/geralt-docs/meta.html"
 	next="/geralt-docs/tags.html"

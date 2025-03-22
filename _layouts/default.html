@@ -30,7 +30,7 @@
         <!-- analytics -->
         <script async src="https://www.googletagmanager.com/gtag/js?id=G-7NRN6JFWRM"></script>
         <script defer src="https://analytics.lirena.xyz/script.js" data-website-id="82531295-4779-41fa-b510-5add24dae107"></script>
-        
+
         <script>
             window.dataLayer = window.dataLayer || [];
             function gtag(){dataLayer.push(arguments);}
@@ -38,7 +38,7 @@
 
             gtag("config", "G-7NRN6JFWRM");
         </script>
-        
+
         <title>{{ page.title }}</title>
     </head>
     <body>
@@ -54,7 +54,13 @@
                     {% endif %}
                 </div>
                 <div class="content">
-                    {% include navigation.html %}
+                    <nav>
+                        {% for item in site.data.navigation %}
+                        <a href="{{item.link}}" {% if page.url == item.link %}class="current"{% endif %}>
+                            {{ item.name }}
+                        </a>
+                        {% endfor %}
+                    </nav>                    
                     {% if page.anchor %}
                         {% include anchor_headings.html html=content anchorBody="&#x1F517;" anchorClass="anchor" %}
                     {% else %}
@@ -62,7 +68,7 @@
                     {% endif %}
                     <hr>
                     <div class="footer">
-                        With <span class="heart">&#128156;</span> -- bsod2528
+                        With <span class="heart">&#128156;</span> -- bsod2528 && <a href="/pages/stats.html">Site Stats</a>
                     </div>
                 </div>
                 <div class="toc">

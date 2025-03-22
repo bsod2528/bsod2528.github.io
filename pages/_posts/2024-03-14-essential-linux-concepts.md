@@ -1,13 +1,13 @@
 ---
 layout: post
-media: /assets/images/blog-3.gif
+media: /assets/blogs/blog-3.gif
 toc: true
 tags: tech linux
 anchor: false
 sidenav: false
 ---
 
-Welcome back to our Linux learning journey! In this week's edition, we'll continue exploring essential concepts in Linux system administration. 
+Welcome back to our Linux learning journey! In this week's edition, we'll continue exploring essential concepts in Linux system administration.
 
 Building upon the foundation laid out last week, we'll delve into three key areas: <span class="cb">Package Management</span>, <span class="cb">User and Group Management</span>, and <span class="cb">Permissions and Ownership</span>.
 

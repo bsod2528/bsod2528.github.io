@@ -11,7 +11,7 @@
   alias: "Nil"
   desc: "Opt - in/out for discriminator logging."
   cooldown: "Can be used 2 times every 15.0 seconds per user."
-  
+
 - cmd: ".guserlog all"
   alias: "Nil"
   desc: "Opt - in/out for all events."

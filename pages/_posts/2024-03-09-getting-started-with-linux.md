@@ -1,6 +1,6 @@
 ---
 layout: post
-media: /assets/images/blog-2.gif
+media: /assets/blogs/blog-2.gif
 toc: true
 tags: tech linux
 anchor: false
@@ -17,7 +17,7 @@ However, the next big breakthrough for Linux was when the Android Project forked
 
 # History
 
-The entire Linux history is present on it’s Wikipedia page. You can refer by clicking [here](https://www.wikiwand.com/en/Linux). I’m not going to type content that’s in Wikipedia here entirely and since it’s the history, it’s best to refer 
+The entire Linux history is present on it’s Wikipedia page. You can refer by clicking [here](https://www.wikiwand.com/en/Linux). I’m not going to type content that’s in Wikipedia here entirely and since it’s the history, it’s best to refer
 
 # Key Concepts
 
@@ -48,9 +48,9 @@ An interpreter which allows us to interact with the OS. There are many different
 - Csh
 - Zsh
 
-Consider the terminal as a PC and Shell as an application. So you need the PC to interact with the application. 
+Consider the terminal as a PC and Shell as an application. So you need the PC to interact with the application.
 
-{% 
+{%
     include image.html
     src="/assets/images/blog-2-shell.png"
     caption="The below picture is my Bash shell opened in cinnamon desktop environment which ships GNOME Terminal by default in Arch linux!"

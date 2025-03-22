@@ -1,6 +1,6 @@
 ---
 layout: post
-media: /assets/images/blog-4.gif
+media: /assets/blogs/blog-4.gif
 toc: true
 tags: tech linux
 anchor: false

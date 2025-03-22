@@ -136,7 +136,7 @@ No need to type out <> and [].
     subcmd=false
 %}
 
-{% 	
+{%
     include paginate.html
 	back="/pages/projects/geralt.html"
 	next="/geralt-docs/discord.html"

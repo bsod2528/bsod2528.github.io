@@ -10,4 +10,3 @@
 - cmd: ".gverification dismantle"
   alias: "remove"
   desc: "Disables the verification system in the guild."
-

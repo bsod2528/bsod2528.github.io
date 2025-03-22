@@ -67,5 +67,4 @@ toc: false
     <a href="https://github.com/the-v-cube/mobile-core" class="v-link">
         🐙Source Code
     </a>
-    
 </div>

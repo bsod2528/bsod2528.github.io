@@ -1,6 +1,6 @@
 ---
 layout: post
-media: /assets/images/blog-1.gif
+media: /assets/blogs/blog-1.gif
 toc: true
 tags: environment
 anchor: false
@@ -25,8 +25,8 @@ Either our generation suffers from our consequences, or we witness our children 
 This isn't something that can be rectified over night. Its not a task for a single person; this is a collective objective. We as humans must be aware of what we're doing to our home.
 We must be conscious of what's happening around us. We must participate together for a better tomorrow.
 
-I've started this small community named <span class="cb">Together Tomorrow</span>. You can join too! Follow these links. Together we shall devise, strategise, and start using such 
-methods in our day-to-day lives. 
+I've started this small community named <span class="cb">Together Tomorrow</span>. You can join too! Follow these links. Together we shall devise, strategise, and start using such
+methods in our day-to-day lives.
 
 Let's work together for a brighter future. Thank you for joining!
 

@@ -7,8 +7,8 @@ sidenav: true
 collection: geralt_docs
 ---
 # Fun Cog
- 
-Consists of commands which help you reduce your stress and try to induce joy! 
+
+Consists of commands which help you reduce your stress and try to induce joy!
 
 <span class="cb">&lt;arg&gt;</span> = required argument.<br>
 <span class="cb">[arg]</span> = optional argument.<br>
@@ -72,7 +72,7 @@ No need to type out <> and [].
     subcmd=false
 %}
 
-{% 	
+{%
     include paginate.html
 	back="/geralt-docs/discord.html"
 	next="/geralt-docs/guild.html"

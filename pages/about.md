@@ -13,7 +13,7 @@ VLSI is a field which I genuinely admire. I'm striving hard so that I can pursue
 
 ## Misc
 In the online world, I'm predominantely called as <span class="cb">bsod2528</span>. I love computers so I kept "bsod" as I liked errors. 2528 was my discriminator when that was a thing on
-Discord. 
+Discord.
 
 I love Christian Bale and Cillian Murphy (100% straight) from the bottom of my heart as they're fine actors who portray the meaning and the essence on the screen in the most unique way.
 

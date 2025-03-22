@@ -11,7 +11,7 @@
 - cmd: ".ghighlight list"
   alias: "all"
   desc: "See all of your triggers."
-  
+
 - cmd: ".ghighlight block"
   req: "object"
   alias: "bl | lock | blacklist"

@@ -84,7 +84,7 @@ No need to type out <> and [].
     subcmd=false
 %}
 
-{% 	
+{%
     include paginate.html
 	back="/geralt-docs/developer.html"
 	next="/geralt-docs/fun.html"

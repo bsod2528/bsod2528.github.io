@@ -26,11 +26,11 @@
 
         <link rel="icon" type="image/gif" href="/assets/images/bsod.gif">
         <link rel="stylesheet" type="text/css" href="/assets/css/styles.css">
-        
+
         <!-- analytics -->
         <script async src="https://www.googletagmanager.com/gtag/js?id=G-7NRN6JFWRM"></script>
         <script defer src="https://analytics.lirena.xyz/script.js" data-website-id="82531295-4779-41fa-b510-5add24dae107"></script>
-        
+
         <script>
             window.dataLayer = window.dataLayer || [];
             function gtag(){dataLayer.push(arguments);}
@@ -54,12 +54,18 @@
                     {% endif %}
                 </div>
                 <div class="content">
-                    {% include navigation.html %}
+                    <nav>
+                        {% for item in site.data.navigation %}
+                        <a href="{{item.link}}" {% if page.url == item.link %}class="current"{% endif %}>
+                            {{ item.name }}
+                        </a>
+                        {% endfor %}
+                    </nav>                    
                     {% if page.anchor %}
                         {% include anchor_headings.html html=content anchorBody="&#x1F517;" anchorClass="anchor" %}
                     {% else %}
                         <h1>{{ page.title }}</h1>
-                        <span class="b-details">{{ page.date | date_to_string }} - Vishal Srivatsava AV</span>
+                        <span class="b-details">Written On: {{ page.date | date_to_string }}</span>
                         {{ content }}
                     {% endif %}
                     <hr>

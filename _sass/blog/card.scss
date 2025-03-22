@@ -12,13 +12,13 @@
             position: relative;
             max-height: 250px;
         }
-    
+
         .b-media {
             width: 100%;
             height: auto;
             object-fit: contain;
         }
-        
+
         .b-tag {
             display: inline-block;
             background-color: rgb(185, 245, 167);
@@ -26,12 +26,12 @@
             transition: background-color 0.3s, color 0.3s;
             text-decoration: none;
         }
-    
+
         .b-tag:hover {
             color: white;
             background-color: rgb(114, 98, 255);
         }
-        
+
         .b-excerpt {
             background-color: rgb(27, 27, 27);
 

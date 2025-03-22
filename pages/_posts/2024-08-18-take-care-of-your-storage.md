@@ -1,6 +1,6 @@
 ---
 layout: post
-media: /assets/images/blog-6.gif
+media: /assets/blogs/blog-6.gif
 toc: true
 tags: tech hardware
 anchor: false
@@ -15,7 +15,7 @@ As an alternative I was using my dad's **2TB Seagate External HDD**.
 # Stage 1
 Well, as per recommendations (people I know on discord) HD Sentinel was installed. Initially my HDD health was at 50%. As time went by it decreased slowly.
 
-I stored stuff like games, photos, videos, and documents from college, etc. 
+I stored stuff like games, photos, videos, and documents from college, etc.
 
 # Stage 2
 As time passed, HD Sentinel started throwing out errors saying your HDD is dying. Buy a new disk / back up data immediately. I had 96 days of life for the past 5 to 6 months.

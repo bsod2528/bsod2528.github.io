@@ -7,7 +7,7 @@ sidenav: true
 collection: geralt_docs
 ---
 # Listeners
-Function decorators which ultimately act as listeners to certain events that occur on Discord on a regular basis. Now by default, the bots don't do this, 
+Function decorators which ultimately act as listeners to certain events that occur on Discord on a regular basis. Now by default, the bots don't do this,
 we have to give them that power, i.e., program them in such manner.
 
 Geralt listens to 4 major types of events:
@@ -29,10 +29,10 @@ Events like <span class="cb">on_user_update</span> is very crucial to log the ch
 Geralt also sends a webhook to when it joins and leaves a guild. This is done using <span class="cb">on_guild_join</span> and <span class="cb">on_guild_leave</span>.
 
 # Error Handler
-To send logs when you screw up the development process of Geralt, discord.py has a listener called <span class="cb">on_command_error</span>. I've set it in such a way that a 
+To send logs when you screw up the development process of Geralt, discord.py has a listener called <span class="cb">on_command_error</span>. I've set it in such a way that a
 webhook sends a file containing the traceback.
 
-{% 	
+{%
 	include paginate.html
 	back="/geralt-docs/guild.html"
 	next="/geralt-docs/meta.html"

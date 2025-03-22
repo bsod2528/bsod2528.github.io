@@ -9,7 +9,7 @@
   desc: "Remove objects from blacklist."
   op: "channel,user,index=0"
   cooldown: "Can be used 3 times every 5.0 seconds per user."
-  
+
 
 - cmd: ".gsnipe stats"
   alias: "Nil"
@@ -18,4 +18,4 @@
   cooldown: "Can be used 3 times every 5.0 seconds per user."
   flags: "--globalstats"
   flags_desc: "Sends global stats for if arg set to True, else sends guild's."
-  example: ".gsnipe stats [--globalstats True || False]"
+  example: ".gsnipe stats [--globalstats True || False"

@@ -82,7 +82,7 @@ Discord changed the username system from using <span class="cb">discriminators</
     sub_commands_data=site.data.geralt.userlog
 %}
 
-{% 	
+{%
     include paginate.html
 	back="/geralt-docs/tags.html"
 	next="/pages/projects/geralt.html"

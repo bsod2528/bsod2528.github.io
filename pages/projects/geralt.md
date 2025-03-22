@@ -11,7 +11,7 @@ collection: geralt-docs
 
 Geralt is a Discord bot that I created to help manage servers and provide fun and useful features to users. Here you can find the documentation for Geralt, including how to set it up and use its commands.
 
-Started off as a simple project to impress friends which later became a 
+Started off as a simple project to impress friends which later became a
 
 <b>Development</b> and <b>deployment</b> has been stopped. Running the latest version of Geralt might yield in errors due to multiple updates being made to the discord.py library.
 {:.warning}
@@ -34,9 +34,10 @@ Default prefix is <span class="cb">.g</span>.
 	{% endfor %}
 </ul>
 
-{% 	include paginate.html 
-	back="/pages/ventures.html" 
-	next="/geralt-docs/developer.html" 
-	_back="Go Back" 
-	_next="Developer Cog" 
+{%
+	include paginate.html
+	back="/pages/ventures.html"
+	next="/geralt-docs/developer.html"
+	_back="Go Back"
+	_next="Developer Cog"
 %}

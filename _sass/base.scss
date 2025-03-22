@@ -185,14 +185,14 @@ body {
             flex-wrap: wrap;
             justify-content: space-around;
         }
-    
+
         nav a {
             margin: 5px;
         }
-        
-    }    
 
-    @media only screen and (max-width: 576px) {        
+    }
+
+    @media only screen and (max-width: 576px) {
         .container {
             width: 100%;
             height: 100%;
@@ -204,13 +204,13 @@ body {
                 .sparkles {
                     order: 1;
                 }
-                
+
                 .toc a {
                     width: 100%;
                     order: 2;
                     margin-top: 10px;
                 }
-                
+
                 .sidenav {
                     order: 3
                 }
@@ -223,7 +223,7 @@ body {
                     width: 100%;
                     height: 100%;
                     order: 4;
-                }                
+                }
             }
         }
     }

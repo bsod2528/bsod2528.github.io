@@ -1,6 +1,6 @@
 ---
 layout: post
-media: /assets/images/blog-5.gif
+media: /assets/blogs/blog-5.gif
 toc: true
 tags: life thoughts
 anchor: false
@@ -39,8 +39,8 @@ on multiple classes, not just a single class. Each individual is a sub-class inh
 It just struck me one day while I was bored at the beach at 8pm to be exact. My mind was thinking and realised that we're all just objects. Everything is an object which has its own attributes and
 methods.
 
-For example, when I'm creating music in a DAW, it's genuinely difficult to understand how that works in terms of raw binary. At the end of the day, my CPU is processing just <span class="cb">1s</span> 
-and <span class="cb">0s</span>. Even if I know that DAW was written in a language, which is further being compiled. It's all mindblowing as it happens in few milli-seconds. 
+For example, when I'm creating music in a DAW, it's genuinely difficult to understand how that works in terms of raw binary. At the end of the day, my CPU is processing just <span class="cb">1s</span>
+and <span class="cb">0s</span>. Even if I know that DAW was written in a language, which is further being compiled. It's all mindblowing as it happens in few milli-seconds.
 
 The amount of abstraction that has occured is just insane. Programmers don't know what the raw machine code is going to like, however they know what they're doing in that particular language.
 
@@ -54,7 +54,7 @@ Similarly stuff goes on inside our bodies and other living things. Everything is
 Enjoy and appreciate life because everything happens so quickly. The amount of time it takes to contemplate the entire process is an eternal. Once one finds out the purpose of why this happens, he
 won't be alive. Cause the amount of ecstasy released from his brain.
 
-No one would be able to understand or even listen to his rant. Its a huge amount of knowledge. 
+No one would be able to understand or even listen to his rant. Its a huge amount of knowledge.
 
 Quoting [Avvaiyar](https://www.google.com/search?q=avvaiyar) here here: <span class="cb">கற்றது கை மண் அளவு.  கல்லாதது உலகளவு.
 </span>
