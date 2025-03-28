@@ -4,3 +4,5 @@ source "https://rubygems.org"
 
 gem "wdm"
 gem "jekyll"
+
+gem "erb", "~> 4.0"

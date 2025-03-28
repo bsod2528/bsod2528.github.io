@@ -64,7 +64,7 @@ echo "" >> _includes/code_stats.html
 
 if [ -d ".git" ]; then
     total_commits=$(git rev-list --count HEAD)
-    total_branches=$(git branch | wc -l)
+    total_branches=$(git branch -r | wc -l)
     latest_commit_hash=$(git log -1 --format="%H")
     latest_commit_message=$(git log -1 --format="%s")
     latest_commit_date=$(git log -1 --format="%cd")
