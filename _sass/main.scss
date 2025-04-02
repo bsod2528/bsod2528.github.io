@@ -23,3 +23,6 @@
 @use "blog/card.scss";
 @use "blog/media.scss";
 @use "blog/details.scss";
+
+// syntax highlighting
+@use "_prism.scss";
