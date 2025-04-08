@@ -25,7 +25,7 @@ I like to game, code, listen to a lot of music, and make decent music. I also sp
 
 When it comes to classic games, I love <span class="gta">GTA V</span>, <span class="fc">Far Cry 3</span>, <span class="gta">GTA San Andreas</span>, <span class="mc">Minecraft</span>, <span class="cb">CS GO</span> (not the best, but I was good), and FPS in general.
 
-As time goes, one matures. Take a look at my steam &#x1f440: [Quite lifeless behaviour](https://steamcommunity.com/id/bsod2528/)
+As time goes, one matures. Take a look at my steam &#128064;: [Quite lifeless behaviour](https://steamcommunity.com/id/bsod2528/)
 
 
 ### Favourite Musicians

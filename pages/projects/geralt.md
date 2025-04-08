@@ -2,7 +2,7 @@
 layout: default
 title: Geralt
 toc: true
-anchor: false
+anchor: true
 sidenav: true
 collection: geralt-docs
 ---

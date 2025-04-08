@@ -52,3 +52,33 @@
     color: rgb(0, 0, 0);
     background-color: #89e051;
 }
+
+.opcode {
+    color: rgb(255, 255, 255);
+    background-color: #e04444;
+}
+
+.store-at {
+    color: rgb(0, 0, 0);
+    background-color: rgb(113, 255, 168);
+}
+
+.operand-one {
+    color: rgb(0, 0, 0);
+    background-color: rgb(115, 113, 255);
+}
+
+.operand-two {
+    color: rgb(255, 255, 255);
+    background-color: rgb(156, 113, 255);
+}
+
+.dont-care {
+    color: rgb(0, 0, 0);
+    background-color: rgb(224, 255, 113);
+}
+
+.imm-val {
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 217, 113);
+}
