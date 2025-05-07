@@ -5,21 +5,37 @@ toc: false
 ---
 # Ventures
 
+<!--
+    Colours are taken from: https://github.com/ozh/github-colors/blob/master/colors.json
+ -->
+
 <div class="venture-container">
     <h2 class="v-title">VR16 CPU</h2>
     <p class="v-description">
         A simple 16-bit RISC based CPU!
     </p>
     <div class="v-language">
-        <span>Verilog</span>
+        <span>Verilog (57.4%)</span>
         <div class="v-progress-wrapper">
-            <div class="v-progress-bar" style="width: 98.6%; background-color: #b2b7f8;"></div>
+            <div class="v-progress-bar" style="width: 57.4%; background-color: #b2b7f8;"></div>
         </div>
     </div>
     <div class="v-language">
-        <span>Shell</span>
+        <span>Python (33.2%)</span>
         <div class="v-progress-wrapper">
-            <div class="v-progress-bar" style="width: 1.4%; background-color: #89e051;"></div>
+            <div class="v-progress-bar" style="width: 33.2%; background-color: #3572A5"></div>
+        </div>
+    </div>
+    <div class="v-language">
+        <span>Assembly (8.8%)</span>
+        <div class="v-progress-wrapper">
+            <div class="v-progress-bar" style="width: 8.8%; background-color: #6E4C13"></div>
+        </div>
+    </div>
+    <div class="v-language">
+        <span>Shell (0.6%)</span>
+        <div class="v-progress-wrapper">
+            <div class="v-progress-bar" style="width: 0.6%; background-color: #89e051;"></div>
         </div>
     </div>
     <a href="https://github.com/bsod2528/cpu" class="v-link">🐙Source Code</a>
@@ -34,13 +50,13 @@ toc: false
         Discord bot written in <a href="https://github.com/Rapptz/discord.py">discord.py</a>!
     </p>
     <div class="v-language">
-        <span>Python</span>
+        <span>Python (95%)</span>
         <div class="v-progress-wrapper">
             <div class="v-progress-bar" style="width: 95%; background-color: #3572A5"></div>
         </div>
     </div>
     <div class="v-language">
-        <span>PostgreSQL</span>
+        <span>PostgreSQL (5%)</span>
         <div class="v-progress-wrapper">
             <div class="v-progress-bar" style="width: 5%; background-color: #e38c00"></div>
         </div>
@@ -57,7 +73,7 @@ toc: false
         Another discord bot written in <a href="https://github.com/Rapptz/discord.py">discord.py</a>, yet this one is a guide.
     </p>
     <div class="v-language">
-        <span>Python</span>
+        <span>Python (100%)</span>
         <div class="v-progress-wrapper">
             <div class="v-progress-bar" style="width: 100%; background-color: #3572A5;"></div>
         </div>
