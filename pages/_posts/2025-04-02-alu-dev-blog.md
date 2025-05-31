@@ -3,7 +3,7 @@ title: "VR16 - ALU I HATE YOU!!!!"
 layout: post
 media: /assets/blogs/blog-10.gif
 toc: true
-tags: dev-blog soc-dev
+tags: dev-blog soc-dev vlsi
 anchor: false
 sidenav: false
 ---

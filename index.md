@@ -7,7 +7,7 @@ sidenav: false
 ---
 
 # Hello World
-Welcome to my world! This is a place where I blog sometimes regarding mostly on technology and the environment. Enjoy your stay ✨✨
+Welcome to my world! This is a place where I blog sometimes regarding mostly on technology, environment, life, and my useless rants lol. Enjoy your stay ✨✨
 
 ## Tech Stack
 A small legend for the below list:
@@ -29,7 +29,7 @@ I learn new stuff as I'm either interested in them or I need to use them in my l
         </li>
         <li class="li-stack">
             <span class="li-lang">Verilog</span>
-            <span class="li-worked-with">[<span class="diff-knowledge">+++</span><span class="diff-practical">---</span>]</span>
+            <span class="li-worked-with">[<span class="diff-knowledge">+++</span><span class="diff-practical">----</span>]</span>
         </li>
         <li class="li-stack">
             <span class="li-lang">PostgreSQL</span>
@@ -54,5 +54,12 @@ When it comes to tools I use:
             <span class="li-lang">Windows && Arch dual boot</span>
             <span class="li-worked-with">[<span class="diff-knowledge">+++</span><span class="diff-practical">-----</span>]</span>
         </li>
+    </ul>
+</div>
+
+<div class="space"></div>
+<div class="box-2">
+    <ul>
+        <script src="./assets/js/quote.js"></script>
     </ul>
 </div>

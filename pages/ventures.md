@@ -17,19 +17,19 @@ toc: false
     <div class="v-language">
         <span>Verilog (57.4%)</span>
         <div class="v-progress-wrapper">
-            <div class="v-progress-bar" style="width: 57.4%; background-color: #b2b7f8;"></div>
+            <div class="v-progress-bar" style="width: 50.7%; background-color: #b2b7f8;"></div>
         </div>
     </div>
     <div class="v-language">
         <span>Python (33.2%)</span>
         <div class="v-progress-wrapper">
-            <div class="v-progress-bar" style="width: 33.2%; background-color: #3572A5"></div>
+            <div class="v-progress-bar" style="width: 40.7%; background-color: #3572A5"></div>
         </div>
     </div>
     <div class="v-language">
         <span>Assembly (8.8%)</span>
         <div class="v-progress-wrapper">
-            <div class="v-progress-bar" style="width: 8.8%; background-color: #6E4C13"></div>
+            <div class="v-progress-bar" style="width: 8.0%; background-color: #6E4C13"></div>
         </div>
     </div>
     <div class="v-language">

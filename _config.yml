@@ -1,15 +1,42 @@
-include:
-  - _includes/code_stats.html
+# site settings
+title: Your Site Title
+description: Your site description
+baseurl: ""
+url: "https://bsod2528.github.io" 
 
+# build settings
 markdown: kramdown
 kramdown:
   input: GFM
   syntax_highlighter: rouge
 
+# collections
 collections:
   vr16-docs:
     output: true
   geralt-docs:
     output: true
-
 collections_dir: pages
+
+# include files
+include:
+  - "_includes/code_stats.html"
+
+# plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+# exclude from processing
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - .github/

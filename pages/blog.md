@@ -13,6 +13,9 @@ The listed blogs are the latest 3, check out [Archives](/pages/archive.html) to 
 If you want to see the tags and stuff, click here: [Tags](/pages/tags.html)
 {:.info}
 
+I don't check grammer here (hehe). I just type whatever I feel that's the whole point of a blog. 
+{:.warning}
+
 <div class="blog-wrapper">
     {% for post in site.posts limit:5 %}
         <div class="card">
