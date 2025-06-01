@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Blog
-toc: true
+toc: false
 anchor: false
 sidenav: false
 ---
@@ -14,10 +14,11 @@ If you want to see the tags and stuff, click here: [Tags](/pages/tags.html)
 {:.info}
 
 I don't check grammer here (hehe). I just type whatever I feel that's the whole point of a blog. 
-{:.warning}
+
+If you want to subscribe to when I publish a new blog, signup below! Don't worry, all your data is safe as I use MailChimp for this! (Scroll to the bottom)
 
 <div class="blog-wrapper">
-    {% for post in site.posts limit:5 %}
+    {% for post in site.posts limit:3 %}
         <div class="card">
             <div class="b-media-wrapper">
                 <img class="b-media" src="{{ post.media }}">
@@ -55,4 +56,6 @@ I don't check grammer here (hehe). I just type whatever I feel that's the whole 
             </div>
         </div>
     {% endfor %}
+
+    {% include signup_to_newsletter.html %}
 </div>

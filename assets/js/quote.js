@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", function () {
     const quotes = [
-        "Games the game",
+        "Games the game - Harry Lewis (W2S)",
     ];
 
     const randomQuote = quotes[Math.floor(Math.random() * quotes.length)];
