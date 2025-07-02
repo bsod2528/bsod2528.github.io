@@ -3,7 +3,7 @@ title: "VR16 - ALU I HATE YOU!!!!"
 layout: post
 media: /assets/blogs/blog-10.gif
 toc: true
-tags: dev-blog soc-dev vlsi
+tags: dev-blog cpu-dev vlsi
 anchor: false
 sidenav: false
 ---
@@ -69,3 +69,9 @@ This means my assembler which converts high-level code into vrasm (name of the a
 or bring up a compiler error or whatever. 
 
 I don't know exactly, when I build the assembler, I'll take care of it then. Until then, this is the update for my cpu! See you guys soon!
+
+{%
+    include paginate.html
+    back="/pages/blog.html"
+    _back="Blogs"
+%}

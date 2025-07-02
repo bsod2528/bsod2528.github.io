@@ -35,3 +35,9 @@ Oh my god, why can't we just die? End this all. It's intense.
 
 # Are you fine?
 Yes I'm fine, it just struck me while I was watching my hands after clearing out the snot from my nose due to a runny nose.
+
+{%
+    include paginate.html
+    back="/pages/blog.html"
+    _back="Blogs"
+%}

@@ -118,3 +118,9 @@ It makes me really questionable. Am I happy or sad? Idk, cause this is a huge me
 continuum is extremely beautiful and gives hope that we all can get through this. Get over the pain and cherish the small happy moments in our own lives and each others. 
 
 Yet the question remains, why?
+
+{%
+    include paginate.html
+    back="/pages/blog.html"
+    _back="Blogs"
+%}

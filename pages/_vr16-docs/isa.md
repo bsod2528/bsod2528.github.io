@@ -19,54 +19,101 @@ So instead of having a definite IS Format: <span class="cb">0000 00 00 00 00 000
 
 For this the entire ISA has to be designed.
 
+
+
 1. <span class="cb">add</span>:
-    - <span class="cb">0000 \| 00 \| 00 \| 00 \| 00 \| xxxx</span>
-    - <span class="opcode">opcode</span> \| <span class="store-at">store_at</span> \| <span class="operand-one">operand_one</span> \| <span class="operand-two">operand_two</span> \| <span class="dont-care">dont-care</span>
+```python
+0000 | 00 | 00 | 00 | 00 | xxxx
+opcode | store_at | operand_one | operand_two | dont_care_values
+```
+
 2. <span class="cb">addi</span>:
-    - <span class="cb">0001 \| 00 \| 0000000000</span>
-    - <span class="opcode">opcode</span> \| <span class="store-at">store_at</span> \| <span class="imm-val">10-bit immediate</span>
+```python
+0001 | 00 | 0000000000
+opcode | store_at | ten_bit_immediate_value
+```
+
 3. <span class="cb">sub</span>:
-    - <span class="cb">0010 \| 00 \| 00 \| 00 \| 00 \| xxxx</span>
-    - <span class="opcode">opcode</span> \| <span class="store-at">store_at</span> \| <span class="operand-one">operand_one</span> \| <span class="operand-two">operand_two</span> \| <span class="dont-care">dont-care</span>
+```python
+0010 | 00 | 00 | 00 | 00 | xxxx
+opcode | store_at | operand_one | operand_two | dont_care_values
+```
+
 4. <span class="cb">subi</span>:
-    - <span class="cb">0011 \| 00 \| 0000000000</span>
-    - <span class="opcode">opcode</span> \| <span class="store-at">store_at</span> \| <span class="imm-val">10-bit immediate</span>
+```python
+0001 | 00 | 0000000000
+opcode | store_at | ten_bit_immediate_value
+```
+
 5. <span class="cb">mul</span>:
-    - <span class="cb">0100 \| 00 \| 00 \| 00 \| 00 \| xxxx</span>
-    - <span class="opcode">opcode</span> \| <span class="store-at">store_at</span> \| <span class="operand-one">operand_one</span> \| <span class="operand-two">operand_two</span> \| <span class="dont-care">dont-care</span>
+```python
+0010 | 00 | 00 | 00 | 00 | xxxx
+opcode | store_at | operand_one | operand_two | dont_care_values
+```
+
 6. <span class="cb">muli</span>:
-    - <span class="cb">0101 \| 00 \| 0000000000</span>
-    - <span class="opcode">opcode</span> \| <span class="store-at">store_at</span> \| <span class="imm-val">10-bit immediate</span>
+```python
+0001 | 00 | 0000000000
+opcode | store_at | ten_bit_immediate_value
+```
+
 7. <span class="cb">div</span>:
-    - <span class="cb">0110 \| 00 \| 00 \| 00 \| 00 \| xxxx</span>
-    - <span class="opcode">opcode</span> \| <span class="store-at">store_at</span> \| <span class="operand-one">operand_one</span> \| <span class="operand-two">operand_two</span> \| <span class="dont-care">dont-care</span>
+```python
+0010 | 00 | 00 | 00 | 00 | xxxx
+opcode | store_at | operand_one | operand_two | dont_care_values
+```
+
 8. <span class="cb">divi</span>:
-    - <span class="cb">0111 \| 00 \| 0000000000</span>
-    - <span class="opcode">opcode</span> \| <span class="store-at">store_at</span> \| <span class="imm-val">10-bit immediate</span>
+```python
+0001 | 00 | 0000000000
+opcode | store_at | ten_bit_immediate_value
+```
 
-10. <span class="cb">jump</span>:
-    - <span class="cb">1001 \| 000000000000 \|</span>
-    - <span class="opcode">opcode</span> \| jump_to_12_bit_address for now
+9. Extra opcode present, will implement a function soon.
+
+10. <span class="cb">jump</span>: Core functionality has to implemented in the code, so until then this won't work when testing.
+```python
+1001 | 000000000000
+opcode | jump_to_twelve_bit_address
+```
+
 11. <span class="cb">delete</span>:
-    - <span class="cb">1010 \| 00 \| xxxxxxxxxx</span>
-    - <span class="opcode">opcode</span> \| destination_register \| <span class="dont-care">dont-care</span>
-12. <span class="cb">and</span>:
-    - <span class="cb">1011 \| 00 \| 00 \| 00 \| xxxxxx</span>
-    - <span class="opcode">opcode</span> \| <span class="store-at">store_at</span> \| <span class="operand-one">operand_one</span> \| <span class="operand-two">operand_two</span> \| <span class="dont-care">dont-care</span>
-12. <span class="cb">or</span>:
-    - <span class="cb">1100 \| 00 \| 00 \| 00 \| xxxxxx</span>
-    - <span class="opcode">opcode</span> \| <span class="store-at">store_at</span> \| <span class="operand-one">operand_one</span> \| <span class="operand-two">operand_two</span> \| <span class="dont-care">dont-care</span>
-13. <span class="cb">not</span>:
-    - <span class="cb">1101 \| 00 \| 00 \| xxxxxxxx</span>
-    - <span class="opcode">opcode</span> \| <span class="store-at">store_at</span> \| <span class="operand-one">operand_one</span> \| <span class="dont-care">dont-care</span>
-14. <span class="cb">xor</span>:
-    - <span class="cb">1110 \| 00 \| 00 \| 00 \| xxxxxx</span>
-    - <span class="opcode">opcode</span> \| <span class="store-at">store_at</span> \| <span class="operand-one">operand_one</span> \| <span class="operand-two">operand_two</span> \| <span class="dont-care">dont-care</span>
-15. <span class="cb">halt</span>:
-    - <span class="cb">1111 \| xxxxxxxxxxxx</span>
-    - <span class="opcode">opcode</span> \| <span class="dont-care">dont-care</span>
+```python
+1010 | 00 | xxxxxxxxxx
+opcode | delete_at | dont_care_values
+```
 
-Kept only basic LOGIC operations as others can be done from these.
+12. <span class="cb">and</span>:
+```python
+0010 | 00 | 00 | 00 | 00 | xxxx
+opcode | store_at | operand_one | operand_two | dont_care_values
+```
+
+12. <span class="cb">or</span>:
+```python
+0010 | 00 | 00 | 00 | 00 | xxxx
+opcode | store_at | operand_one | operand_two | dont_care_values
+```
+
+13. <span class="cb">not</span>:
+```python
+0010 | 00 | 00 | 00 | xxxx
+opcode | store_at | operand_one | dont_care_values
+```
+
+14. <span class="cb">xor</span>:
+```python
+0010 | 00 | 00 | 00 | 00 | xxxx
+opcode | store_at | operand_one | operand_two | dont_care_values
+```
+
+15. <span class="cb">halt</span>:
+```python
+1111 | xxxxxxxxxxxx
+opcode | dont_care_values
+```
+
+Kept only basic logic operations as others can be done from these.
 
 
 # Dilemma
@@ -77,5 +124,7 @@ Since the <span class="cb">immediate</span> operations handle the function of <s
 {%
     include paginate.html
 	back="/vr16-docs/working.html"
+    next="/vr16-docs/assembler.html"
 	_back="Working"
+    _next="Assembler"
 %}

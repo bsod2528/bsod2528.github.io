@@ -7,7 +7,7 @@ sidenav: false
 ---
 
 # Hello World
-Welcome to my world! This is a place where I blog sometimes regarding mostly on technology, environment, life, and my useless rants lol. Enjoy your stay ✨✨
+Welcome to my world! This is a place where I blog sometimes regarding mostly on technology, environment, life, and my useless rants lol. Enjoy your stay &#10024;&#10024; 
 
 ## Tech Stack
 A small legend for the below list:

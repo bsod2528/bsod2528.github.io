@@ -58,3 +58,9 @@ Networking is another fundamental aspect of managing a Linux system. Here are so
 ## Conclusion
 
 Mastering file manipulation commands, process management, and networking basics are crucial steps in becoming proficient in Linux. While this post provides an introduction to these topics, I encourage you to explore these commands and concepts further to fully appreciate the power and flexibility of Linux.
+
+{%
+    include paginate.html
+    back="/pages/blog.html"
+    _back="Blogs"
+%}

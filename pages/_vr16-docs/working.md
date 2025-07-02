@@ -22,18 +22,16 @@ So, it all starts with a simple clock pulse.
 5. ALU does arithmetic and logical operations alone.
 6. Results are further stored in 1 of 4 general purpose registers [<span class="cb">R0</span>, <span class="cb">R1</span>, <span class="cb">R2</span>, <span class="cb">R3</span>]
 
-# In reality what's the case?
-As of this commit: [<span class="cb">f6c446e6df563b7e4b69a8135304f4a15109e210</span>](https://github.com/bsod2528/cpu/commit/f6c446e6df563b7e4b69a8135304f4a15109e210),
-the above mentioned doesn't happen.
+# Reality
+As per the <a href="https://github.com/bsod2528/cpu/commit/a03ddea555b00e2594c6f16772c364bf0e9e9897">latest commit</a> things still don't work entirely.
 
-The part where <span class="cb">control unit</span> takes care of reading and writing is yet to be implemented.
+Top module is present, one can update the mem file to view the output in waveform. 
 
-All parts have been implemented, yet the "connecting" between all the parts is yet to be done alone. As of date <span class="gta">April 8th 2025</span>, I've had my
-[CAN YOU HEAR THE MUSIC MOMENT!!!!](https://www.instagram.com/reel/DFunZ3sxXdg/).
+I've mentioned the exact problem in [dev-blog 3](/2025/07/02/vr16-update.html), which is the output is being stored in the wrong register despite correct assembly code. So there's either wrong connections in the top module or somewhere else.
 
-So soon enough this page will be updated, and the code will be updated to support connection.
+If it's somewhere else, I'm in for a ride.
 
-As of the "TOP MODULE" needed, I'm just going to use a simple testbench to connect it all and call it a day. 
+If you have time, and you're willing to help please do drop in a PR &#x1F5FF; I shall be thankful.
 
 {%
     include paginate.html

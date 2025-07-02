@@ -15,27 +15,27 @@ toc: false
         A simple 16-bit RISC based CPU!
     </p>
     <div class="v-language">
-        <span>Verilog (57.4%)</span>
+        <span>Verilog (54.6%)</span>
         <div class="v-progress-wrapper">
-            <div class="v-progress-bar" style="width: 50.7%; background-color: #b2b7f8;"></div>
+            <div class="v-progress-bar" style="width: 54.6%; background-color: #b2b7f8;"></div>
         </div>
     </div>
     <div class="v-language">
-        <span>Python (33.2%)</span>
+        <span>Python (36.6)</span>
         <div class="v-progress-wrapper">
-            <div class="v-progress-bar" style="width: 40.7%; background-color: #3572A5"></div>
+            <div class="v-progress-bar" style="width: 36.6%; background-color: #3572A5"></div>
         </div>
     </div>
     <div class="v-language">
-        <span>Assembly (8.8%)</span>
+        <span>SystemVerilog (8.1)</span>
         <div class="v-progress-wrapper">
-            <div class="v-progress-bar" style="width: 8.0%; background-color: #6E4C13"></div>
+            <div class="v-progress-bar" style="width: 8.1%; background-color: #DAE1C2"></div>
         </div>
     </div>
     <div class="v-language">
-        <span>Shell (0.6%)</span>
+        <span>Shell (0.7%)</span>
         <div class="v-progress-wrapper">
-            <div class="v-progress-bar" style="width: 0.6%; background-color: #89e051;"></div>
+            <div class="v-progress-bar" style="width: 0.7%; background-color: #89e051;"></div>
         </div>
     </div>
     <a href="https://github.com/bsod2528/cpu" class="v-link">🐙Source Code</a>

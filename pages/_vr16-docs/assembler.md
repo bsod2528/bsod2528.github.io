@@ -79,3 +79,11 @@ As mentioned, only 4 general purpose registers:
 - r1
 - r2
 - r3
+
+{%
+    include paginate.html
+	back="/vr16-docs/isa.html"
+    next="/vr16-docs/compiler.html"
+	_back="Instruction Set"
+    _next="VRScript"
+%}
