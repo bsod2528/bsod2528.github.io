@@ -65,6 +65,10 @@
                         {% include anchor_headings.html html=content anchorBody="&#x1F517;" anchorClass="anchor" %}
                     {% else %}
                         <h1>{{ page.title }}</h1>
+                        <div class="post-media-wrapper">
+                            <img class="post-media" src="{{ page.media }}">
+                        </div>
+                        <br>
                         <span class="b-details">Written On: {{ page.date | date_to_string }}</span>
                         {{ content }}
                     {% endif %}

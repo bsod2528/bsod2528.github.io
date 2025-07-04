@@ -1,0 +1,32 @@
+---
+layout: post
+title: Adding more Persona!
+media: /assets/blogs/blog-14.gif
+toc: true
+tags: updates
+anchor: false
+sidenav: false
+---
+
+Well, I read on hackernews about Postcard, I was taken aback geniunely!
+
+That guy, madlad deleted all his socials and created his own website where he blogs a lot. And his friends are up-to-date on his life as they subscribe to his email.
+
+This sparked some ideas of how I could make my website more personal and you know feel good when a user reads.
+
+On the sidenote, this is my 2nd blog in a month that to very quickly! Like within 2 days I'm writing this blog.
+
+I wanted to add a bit more persona so hehe. I've decided to add a <span class="cb">dump</span>.html page to this site. You can access it below from the footer.
+
+# Why and What
+I mean I just answered why above, and again before you go on by saying that you didn't ask I know so shush.
+
+What will be there in the dump. Well, consider it like my mini digital diary. NOO, I won't be ranting shit there. It'll just be like a cron commit that I'll personally be doing month on month regardless of what happens to my projects and more.
+
+Yeah like a one-liner of what happens in my life without going to the specifics hehe.
+
+It's just to add a bit more pazaazz (that was so zesty i know). I don't know why but yeah. That's it. 
+
+UHH I WONT be posting June's dump cause I forgot what happened in June. July will be up next month.
+
+Until then peace!
