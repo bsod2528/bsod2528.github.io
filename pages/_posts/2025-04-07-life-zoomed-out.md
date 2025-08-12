@@ -1,6 +1,6 @@
 ---
 layout: post
-media: /assets/blogs/blog-11.gif
+media: /assets/blogs/blog-10.gif
 toc: true
 tags: life
 anchor: false

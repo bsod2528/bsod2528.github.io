@@ -1,7 +1,7 @@
 ---
 title: "VR16 - ALU I HATE YOU!!!!"
 layout: post
-media: /assets/blogs/blog-10.gif
+media: /assets/blogs/blog-9.gif
 toc: true
 tags: dev-blog cpu-dev vlsi
 anchor: false

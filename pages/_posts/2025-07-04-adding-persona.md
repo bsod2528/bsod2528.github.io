@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Adding more Persona!
-media: /assets/blogs/blog-14.gif
+media: /assets/blogs/blog-13.gif
 toc: true
 tags: updates
 anchor: false
