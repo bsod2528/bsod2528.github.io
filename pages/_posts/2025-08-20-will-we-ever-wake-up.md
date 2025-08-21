@@ -111,7 +111,7 @@ Upon appreciating that and everything that goes into what they use, to know the 
 
 We must learn to pace, not race. Dam cannot believe I just said that but yeah. 
 
-To much yapping going on but yeah. On a side note, Ive started readung heavily. Follow me on good reads: [goodreads hehe](https://www.goodreads.com/user/show/193036799-vishal-srivatsava) <img class="emote" src="/assets/images/emotes/pray.png">
+To much yapping going on but yeah. On a side note, I've started reading heavily. Follow me on good reads: [goodreads hehe](https://www.goodreads.com/user/show/193036799-vishal-srivatsava) <img class="emote" src="/assets/images/emotes/pray.png">
 
 {%
     include paginate.html
