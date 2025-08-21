@@ -39,3 +39,4 @@ My lastfm and spotify say them all, Hans Zimmer, Ludwig Göransson, and Joji tak
 - [LastFM](https://www.last.fm/user/BSOD2528)
 - [Letterboxd](https://letterboxd.com/bsod2528/) Yes I log them regularly('nt) :D
 - [Spotify](https://open.spotify.com/user/hsne7tb0pgowleur3x60ieu1w?si=3ca3469db62f4501)
+- [Goodreads](https://www.goodreads.com/user/show/193036799-vishal-srivatsava)

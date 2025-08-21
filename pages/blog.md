@@ -29,14 +29,15 @@ Or you could subscribe using my RSS page if you feel like that's a better way!
             <div class="b-metadata">
                 <b>On:</b> {{ post.date | date_to_string }}
                 <br>
-                <b>Tags:</b>
                 {% if post.tags.size > 1 %}
+                    <b>Tags:</b>
                     {% for tag in post.tags %}
-                        <a href="/pages/tags.html"><span class="b-tag">{{ tag }}</span></a>
+                        <a href="/pages/tags.html#{{tag}}"><span class="b-tag">{{ tag }}</span></a>
                         {% unless forloop.last %}|{% endunless %}
                     {% endfor %}
                 {% else %}
-                    <a href="/pages/tags.html"><span class="b-tag">{{ post.tags | join: ' | ' }}</span></a>
+                    <b>Tag:</b>
+                    <a href="/pages/tags.html#{{post.tags}}"><span class="b-tag">{{ post.tags | join: ' | ' }}</span></a>
                 {% endif %}
                 <br>
                 <b>Reading Time:</b>

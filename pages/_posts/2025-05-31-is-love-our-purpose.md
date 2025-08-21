@@ -3,7 +3,7 @@ title: "Is Love Our Purpose?"
 layout: post
 media: /assets/blogs/blog-11.gif
 toc: true
-tags: life thoughts
+tags: life
 anchor: false
 sidenav: false
 ---

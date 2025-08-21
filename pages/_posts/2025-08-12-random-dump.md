@@ -2,7 +2,7 @@
 layout: post
 media: /assets/blogs/blog-14.gif
 toc: true
-tags: life
+tags: updates
 anchor: false
 sidenav: false
 ---
@@ -57,3 +57,9 @@ The below is my tree. I used the canvas feature which I thought was pretty usele
 Yeah, I'm bored and I did this in like 2 weeks and uh yeah. I don't know why. I have more important work than creating some random vault and storing stuff in it like prepping for masters and stuff but yeah.
 
 Enough ranting I guess, until then peace.
+
+{%
+    include paginate.html
+    back="/pages/blog.html"
+    _back="Blogs"
+%}

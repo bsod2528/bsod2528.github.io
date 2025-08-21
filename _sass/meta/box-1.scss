@@ -12,3 +12,9 @@
     box-sizing: border-box;
     text-align: center;
 }
+
+@media only screen and (max-width: 576px) {
+    .box-1, .box-2 {
+        font-size: 15px;
+    }
+}

@@ -21,7 +21,7 @@ I learn new stuff as I'm either interested in them or I need to use them in my l
     <ul>
         <li class="li-stack">
             <span class="li-lang">C</span>
-            <span class="li-worked-with">[<span class="diff-knowledge">++++</span><span class="diff-practical">--</span>]</span>
+            <span class="li-worked-with">[<span class="diff-knowledge">+++</span><span class="diff-practical">--</span>]</span>
         </li>
         <li class="li-stack">
             <span class="li-lang">Python</span>
@@ -30,6 +30,10 @@ I learn new stuff as I'm either interested in them or I need to use them in my l
         <li class="li-stack">
             <span class="li-lang">Verilog</span>
             <span class="li-worked-with">[<span class="diff-knowledge">+++</span><span class="diff-practical">----</span>]</span>
+        </li>
+        <li class="li-stack">
+            <span class="li-lang">SystemVerilog</span>
+            <span class="li-worked-with">[<span class="diff-knowledge">+</span><span class="diff-practical">--</span>]</span>
         </li>
         <li class="li-stack">
             <span class="li-lang">PostgreSQL</span>
@@ -44,15 +48,18 @@ When it comes to tools I use:
     <ul>
         <li class="li-stack">
             <span class="li-lang">Git</span>
-            <span class="li-worked-with">[<span class="diff-knowledge">++</span><span class="diff-practical">----</span>]</span>
         </li>
         <li class="li-stack">
-            <span class="li-lang">Neovim && Visual Studio Code</span>
-            <span class="li-worked-with">[<span class="diff-knowledge">++</span><span class="diff-practical">----</span>]</span>
+            <span class="li-lang">Neovim && VSCode / VSCodium</span>
         </li>
         <li class="li-stack">
-            <span class="li-lang">Windows && Arch dual boot</span>
-            <span class="li-worked-with">[<span class="diff-knowledge">+++</span><span class="diff-practical">-----</span>]</span>
+            <span class="li-lang">Windows 10 && Arch dual boot</span>
+        </li>
+        <li class="li-stack">
+            <span class="li-lang">WSL2 using Ubuntu</span>
+        </li>
+        <li class="li-stack">
+            <span class="li-lang">Obsidian && Syncthing</span>
         </li>
     </ul>
 </div>

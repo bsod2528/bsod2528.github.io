@@ -2,7 +2,7 @@
 layout: post
 media: /assets/blogs/blog-5.gif
 toc: true
-tags: life thoughts
+tags: life
 anchor: false
 sidenav: false
 ---

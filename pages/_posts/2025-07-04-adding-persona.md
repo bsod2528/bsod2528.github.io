@@ -30,3 +30,9 @@ It's just to add a bit more pazaazz (that was so zesty i know). I don't know why
 UHH I WONT be posting June's dump cause I forgot what happened in June. July will be up next month.
 
 Until then peace!
+
+{%
+    include paginate.html
+    back="/pages/blog.html"
+    _back="Blogs"
+%}
