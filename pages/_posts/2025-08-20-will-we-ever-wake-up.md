@@ -1,6 +1,6 @@
 ---
 layout: post
-media: /assets/blogs/blog-15.gif
+media: /assets/blogs/blog-14.gif
 toc: true
 tags: life
 anchor: false
@@ -26,7 +26,7 @@ We will be discussing and diving into various topics, so this is gonna be a long
 ## Time and Life
 {%
     include blog-image.html
-    src="/assets/images/blog-15-time-and-life.jpg"
+    src="/assets/images/blog-14-time-and-life.jpg"
 %}
 
 image credits: [click here](https://in.pinterest.com/pin/5770305768791380/)
@@ -57,7 +57,7 @@ It was extremely reality-distorting and dissasociating after reading them both. 
 ## End Goal
 {%
     include blog-image.html
-    src="/assets/images/blog-15-end-goal.jpg"
+    src="/assets/images/blog-14-end-goal.jpg"
 %}
 
 image credits: [click here](https://in.pinterest.com/pin/15481192463597555/)
@@ -78,7 +78,7 @@ To be sucked into different lores; listening to musical bands, usage of certain 
 # What needs to be done
 {%
     include blog-image.html
-    src="/assets/images/blog-15-conclusion.jpg"
+    src="/assets/images/blog-14-conclusion.jpg"
 %}
 
 I took this hehe
