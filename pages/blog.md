@@ -59,6 +59,4 @@ Or you could subscribe using my RSS page if you feel like that's a better way!
             </div>
         </div>
     {% endfor %}
-
-    {% include signup_to_newsletter.html %}
 </div>

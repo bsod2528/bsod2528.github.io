@@ -6,7 +6,6 @@ anchor: false
 sidenav: false
 ---
 # Dump
-Well, this is the dump. Content coming on <span class="cb">01-08-2025</span>.
 
 ## July'25
 - finished summer internship at a pcb design company (all vlsi companies asked 3 to 6 months and my college didn't let me).
@@ -26,3 +25,13 @@ Well, this is the dump. Content coming on <span class="cb">01-08-2025</span>.
 - I feel like Neo from the Matrix, people all lived closed lives, think very narrowly. No one's ready to unravel the bigger truth, no one is ready to listen, people are too focused on their thoughts alone. I feel like living in a Kingdom of Fools.
 - Rotted this month, kept questioning what to do next and whether my plan was correct or not for life.
 - Participated in the Vyomedha SBC Peripheral competition by submitting a cordic accelerator with collaboration with a friend of mine.
+
+## November'25
+- Switched to fedora permanently, it's just easier.
+
+## December'25
+- Finished 7th semester.
+- Started mixing unrequited love ep really hard and did really well.
+- Focusing on mental health a bit more.
+- Didn't complete the <span class="cb">60x20</span>km winter cycling challenge.
+- Started reading <span class="cb">Computer Principles and Design in Verilog</span> by Prof. Dr. Yamin Li.

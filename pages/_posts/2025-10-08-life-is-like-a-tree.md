@@ -9,7 +9,7 @@ sidenav: false
 
 Accommodation && Coexistance - something really tough in this world and something most don't follow (I'm trying my best to).
 
-Image Credits: [https://in.pinterest.com/pin/822751425717541721/](https://in.pinterest.com/pin/822751425717541721/)
+Image Credits: [https://in.pinterest.com/pin/10625749118807719/](https://in.pinterest.com/pin/10625749118807719/)
 {:.info}
 
 # How, What?
