@@ -9,6 +9,12 @@ collection: geralt-docs
 
 # Geralt
 
+06-02-2023
+{:.date-added}
+
+GitHub Repository: [link](https://github.com/bsod2528/geralt/)
+{:.info}
+
 Geralt is a Discord bot that I created to help manage servers and provide fun and useful features to users. Here you can find the documentation for Geralt, including how to set it up and use its commands.
 
 Started off as a simple project to impress friends which later became a

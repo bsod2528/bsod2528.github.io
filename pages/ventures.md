@@ -7,13 +7,32 @@ toc: false
 
 <!--
     Colours are taken from: https://github.com/ozh/github-colors/blob/master/colors.json
- -->
+-->
+
+<div class="venture-container">
+    <h2 class="v-title">CORDIC Accelerator</h2>
+    <p class="v-description">A simple peripheral for the Vyommedha SBC.</p>
+    <div class="v-language">
+        <span>Verilog (98.2%)</span>
+        <div class="v-progress-wrapper">
+            <div class="v-progress-bar" style="width: 98.2%; background-color: #b2b7f8;"></div>
+        </div>
+    </div>
+    <div class="v-language">
+        <span>Shell (1.8%)</span>
+        <div class="v-progress-wrapper">
+            <div class="v-progress-bar" style="width: 1.8%; background-color: #89e051;"></div>
+        </div>
+    </div>
+    <a href="https://github.com/ApoorvaGithubAmargol/Cordic_Peripheral_SBC" class="v-link">Source Code</a>
+    <a href="/pages/projects/cordic.html" class="v-link">Read More</a>
+</div>
+
+{:.space}
 
 <div class="venture-container">
     <h2 class="v-title">VR16 CPU</h2>
-    <p class="v-description">
-        A simple 16-bit RISC based CPU!
-    </p>
+    <p class="v-description">A simple 16-bit RISC based CPU!</p>
     <div class="v-language">
         <span>Verilog (54.6%)</span>
         <div class="v-progress-wrapper">
@@ -38,8 +57,8 @@ toc: false
             <div class="v-progress-bar" style="width: 0.7%; background-color: #89e051;"></div>
         </div>
     </div>
-    <a href="https://github.com/bsod2528/cpu" class="v-link">🐙Source Code</a>
-    <a href="/pages/projects/vr16.html" class="v-link">✨Read More</a>
+    <a href="https://github.com/bsod2528/cpu" class="v-link">Source Code</a>
+    <a href="/pages/projects/vr16.html" class="v-link">Read More</a>
 </div>
 
 {:.space}
@@ -61,8 +80,8 @@ toc: false
             <div class="v-progress-bar" style="width: 5%; background-color: #e38c00"></div>
         </div>
     </div>
-    <a href="https://github.com/bsod2528/Geralt" class="v-link">🐙Source Code</a>
-    <a href="/pages/projects/geralt.html" class="v-link">✨Read More</a>
+    <a href="https://github.com/bsod2528/Geralt" class="v-link">Source Code</a>
+    <a href="/pages/projects/geralt.html" class="v-link">Read More</a>
 </div>
 
 {:.space}
@@ -78,6 +97,6 @@ toc: false
             <div class="v-progress-bar" style="width: 100%; background-color: #3572A5;"></div>
         </div>
     </div>
-    <a href="https://github.com/bsod2528/Beach-Bot" class="v-link">🐙Source Code</a>
-    <a href="/pages/projects/beach-bot.html" class="v-link">✨Read More</a>
+    <a href="https://github.com/bsod2528/Beach-Bot" class="v-link">Source Code</a>
+    <a href="/pages/projects/beach-bot.html" class="v-link">Read More</a>
 </div>

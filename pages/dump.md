@@ -35,3 +35,12 @@ sidenav: false
 - Focusing on mental health a bit more.
 - Didn't complete the <span class="cb">60x20</span>km winter cycling challenge.
 - Started reading <span class="cb">Computer Principles and Design in Verilog</span> by Prof. Dr. Yamin Li.
+
+- - - 
+# 2026
+## January
+- Finish mixing and mastering of my songs hehe (4 in total).
+
+## February
+- Came up with the script for the music video!
+- Start focusing on my CPU a bit more.

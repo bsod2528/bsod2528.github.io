@@ -15,10 +15,6 @@ If you want to see the tags and stuff, click here: [Tags](/pages/tags.html)
 
 I don't check grammer here (hehe). I just type whatever I feel that's the whole point of a blog. 
 
-If you want to subscribe to when I publish a new blog, signup below! Don't worry, all your data is safe as I use MailChimp for this! (Scroll to the bottom)
-
-Or you could subscribe using my RSS page if you feel like that's a better way!
-
 <div class="blog-wrapper">
     {% for post in site.posts limit:3 %}
         <div class="card">

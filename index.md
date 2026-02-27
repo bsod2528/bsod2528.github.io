@@ -50,10 +50,10 @@ When it comes to tools I use:
             <span class="li-lang">Git</span>
         </li>
         <li class="li-stack">
-            <span class="li-lang">Neovim && VSCode / VSCodium</span>
+            <span class="li-lang">Zed</span>
         </li>
         <li class="li-stack">
-            <span class="li-lang">Windows 10 && Arch dual boot</span>
+            <span class="li-lang">Windows 11 && Fedora dual boot</span>
         </li>
         <li class="li-stack">
             <span class="li-lang">WSL2 using Ubuntu</span>
