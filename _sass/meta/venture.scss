@@ -16,18 +16,20 @@
         color: var(--fg);
         padding: 5px;
         background-color: var(--venture-desc-bg, #2c2c2cc5);
-        transition: background-color 0.25s ease, color 0.25s ease;
+        transition:
+            background-color 0.25s ease,
+            color 0.25s ease;
     }
 
     .v-language {
         display: flex;
-        justify-content: space-between;
-        align-items: center;
+        flex-direction: column; // stack name above bar
         margin-bottom: 10px;
         font-weight: bolder;
+        gap: 5px;
 
         .v-progress-wrapper {
-            width: 60%;
+            width: 100%; // full width
             background-color: var(--venture-progress-bg, #272727);
             height: 8px;
             transition: background-color 0.25s ease;
@@ -60,5 +62,27 @@
 @keyframes fill-bar {
     to {
         width: var(--bar-width);
+    }
+}
+
+@media only screen and (max-width: 576px) {
+    .v-language {
+        flex-direction: column;
+        align-items: flex-start;
+
+        .v-progress-wrapper {
+            width: 100%;
+        }
+    }
+}
+
+@media only screen and (max-width: 420px) {
+    .v-language {
+        flex-direction: column;
+        align-items: flex-start;
+
+        .v-progress-wrapper {
+            width: 100%;
+        }
     }
 }
