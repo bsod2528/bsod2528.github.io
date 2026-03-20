@@ -1,7 +1,8 @@
 .caption {
     width: 100%;
-    color: white;
-    background-color: rgb(67, 67, 68);
+    color: var(--fg);
+    background-color: var(--box-bg);
     padding: 10px;
     box-sizing: border-box;
+    transition: background-color 0.25s ease, color 0.25s ease;
 }

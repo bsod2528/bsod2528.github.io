@@ -2,19 +2,21 @@
     width: 100%;
     padding: 20px;
     box-sizing: border-box;
-    background-color: #373758;
+    background-color: var(--venture-bg, #373758);
     box-shadow: 0 0 10px rgba(76, 0, 130, 0.568);
+    transition: background-color 0.25s ease;
 
     .v-title {
         font-size: 1.5em;
-        color: #fff;
+        color: var(--heading);
+        transition: color 0.25s ease;
     }
 
     .v-description {
-        color: #e4fffd;
-        // margin-bottom: 10px;
+        color: var(--fg);
         padding: 5px;
-        background-color: #2c2c2cc5;
+        background-color: var(--venture-desc-bg, #2c2c2cc5);
+        transition: background-color 0.25s ease, color 0.25s ease;
     }
 
     .v-language {
@@ -26,8 +28,9 @@
 
         .v-progress-wrapper {
             width: 60%;
-            background-color: #272727;
+            background-color: var(--venture-progress-bg, #272727);
             height: 8px;
+            transition: background-color 0.25s ease;
 
             .v-progress-bar {
                 height: 100%;

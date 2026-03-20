@@ -1,4 +1,6 @@
 .link {
     padding: 10px;
-    background-color: black;
+    background-color: var(--box-bg);
+    color: var(--fg);
+    transition: background-color 0.25s ease, color 0.25s ease;
 }

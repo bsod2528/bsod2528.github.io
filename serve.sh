@@ -1,4 +1,4 @@
 #!/bin/bash
 
 ./stats.sh
-jekyll serve --livereload
+bundle exec jekyll serve --livereload

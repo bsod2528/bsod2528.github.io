@@ -1,4 +1,6 @@
 .b-details {
     padding: 5px;
-    background-color: rgba(0, 255, 55, 0.219);
+    background-color: rgba(0, 255, 55, 0.15);
+    color: var(--fg);
+    transition: color 0.25s ease;
 }

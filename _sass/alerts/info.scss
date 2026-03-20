@@ -1,7 +1,8 @@
 .info {
     width: 100%;
-    color: white;
-    background-color: rgba(116, 116, 255, 0.473);
+    color: var(--fg);
+    background-color: rgba(116, 116, 255, 0.25);
     padding: 10px;
     box-sizing: border-box;
+    transition: color 0.25s ease;
 }

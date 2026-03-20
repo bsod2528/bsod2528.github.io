@@ -1,29 +1,103 @@
-@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Mono:wght@100..900&display=swap');
+:root {
+    --bg: #130d1c;
+    --fg: #d8e1ff;
+    --heading: #ffffff;
+    --link: rgb(154, 99, 255);
+    --link-hover: #ffffff;
+    --nav-link: #ff869a;
+    --hr: rgb(182, 155, 255);
+    --footer-bg: #26084652;
+    --box-bg: #28292c;
+    --card-bg: rgb(49, 49, 49);
+    --card-border: rgb(80, 80, 80);
+    --excerpt-bg: rgb(27, 27, 27);
+    --code-bg: rgb(51, 44, 44);
+    --tag-bg: rgb(185, 245, 167);
+    --tag-colour: black;
+    --sidenav-link: white;
+    --toc-link: rgb(175, 255, 235);
+    --selection-bg: rgb(255, 255, 255);
+    --selection-fg: rgb(0, 0, 0);
+    --toggle-bg: rgba(255, 255, 255, 0.08);
+    --toggle-border: rgba(255, 255, 255, 0.2);
+    --figure-bg: rgb(210, 218, 255);
+    --venture-bg: #373758;
+    --venture-desc-bg: #2c2c2cc5;
+    --venture-progress-bg: #272727;
+    --paginate-bg: rgb(80, 120, 200);
+    --box-one-bg-colour: #28292c;
+}
+
+[data-theme="light"] {
+    --bg: #f4f0fa;
+    --fg: #2a1a3e;
+    --heading: #1a0a2e;
+    --link: rgb(100, 40, 200);
+    --link-hover: #1a0a2e;
+    --nav-link: #c0004a;
+    --hr: rgb(140, 90, 220);
+    --footer-bg: rgba(160, 100, 255, 0.1);
+    --box-bg: #e8e0f5;
+    --card-bg: #ffffff;
+    --card-border: rgb(200, 185, 230);
+    --excerpt-bg: #f0eaf8;
+    --code-bg: #e4daf5;
+    --tag-bg: rgb(185, 245, 167);
+    --tag-colour: black;
+    --sidenav-link: #1a0a2e;
+    --toc-link: rgb(60, 120, 200);
+    --selection-bg: #2a1a3e;
+    --selection-fg: #ffffff;
+    --toggle-bg: rgba(0, 0, 0, 0.06);
+    --toggle-border: rgba(0, 0, 0, 0.15);
+    --figure-bg: rgb(210, 218, 255);
+    --venture-bg: #e8e0f8;
+    --venture-desc-bg: rgba(180, 160, 230, 0.3);
+    --paginate-bg: rgb(80, 120, 200);
+    --box-one-bg-colour: #e0d6f9;
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+Mono:wght@100..900&display=swap");
 
 ::selection {
-    color: rgb(0, 0, 0);
-    background-color: rgb(255, 255, 255);
+    color: var(--selection-fg);
+    background-color: var(--selection-bg);
 }
 
-h1, h2, h3, h4, h5, h6 {
-    color: #ffffff;
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: var(--heading);
+    transition: color 0.25s ease;
 }
 
-h1 .anchor, h2 .anchor, h3 .anchor, h4 .anchor, h5 .anchor, h6 .anchor {
+h1 .anchor,
+h2 .anchor,
+h3 .anchor,
+h4 .anchor,
+h5 .anchor,
+h6 .anchor {
     display: none;
     transition: display 0.3s ease-in-out;
 }
 
-h1:hover .anchor, h2:hover .anchor, h3:hover .anchor, h4:hover .anchor, h5:hover .anchor, h6:hover .anchor {
+h1:hover .anchor,
+h2:hover .anchor,
+h3:hover .anchor,
+h4:hover .anchor,
+h5:hover .anchor,
+h6:hover .anchor {
     font-size: medium;
     display: inline;
 }
 
 hr {
-    color: rgb(182, 155, 255);
+    color: var(--hr);
     width: 100%;
 }
-
 
 @keyframes matrix {
     0% {
@@ -38,34 +112,36 @@ hr {
     }
 }
 
-
 body {
     font-size: 16.5px;
     font-family: "Noto Sans Mono", monospace;
-    background-color: #130d1c;
-    color: #d8e1ff;
+    background-color: var(--bg);
+    color: var(--fg);
     font-weight: 500;
     margin: 0 !important;
+    transition:
+        background-color 0.25s ease,
+        color 0.25s ease;
 
     a {
-        color: rgb(154, 99, 255);
+        color: var(--link);
         text-decoration: none;
-        transition: 0.3s ease-in-out;
+        transition: color 0.3s ease-in-out;
     }
 
     a:hover {
-        color: white;
+        color: var(--link-hover);
     }
 
     nav {
         display: flex;
-        justify-content:space-evenly;
-        flex-direction:  row;
+        justify-content: space-evenly;
+        flex-direction: row;
         width: 100%;
 
         a {
             text-decoration: none;
-            color: #ff869a;
+            color: var(--nav-link);
             font-weight: bold;
             transition: color 0.2s ease-in-out;
 
@@ -80,7 +156,7 @@ body {
             }
 
             &:hover {
-                color: white;
+                color: var(--link-hover);
             }
         }
     }
@@ -107,12 +183,13 @@ body {
             }
 
             .sidenav a {
-                color: white;
+                color: var(--sidenav-link);
                 font-weight: bolder;
+                transition: color 0.25s ease;
             }
 
             .sidenav a:hover {
-                color: rgb(104, 156, 253);;
+                color: rgb(104, 156, 253);
             }
 
             .content {
@@ -137,9 +214,10 @@ body {
     .toc a {
         width: 30%;
         height: 100%;
-        color: rgb(175, 255, 235);
+        color: var(--toc-link);
         font-weight: bolder;
         text-decoration: none;
+        transition: color 0.25s ease;
     }
 
     .toc a:hover {
@@ -148,10 +226,13 @@ body {
 
     .footer {
         bottom: 0;
-        color: white;
+        color: var(--heading);
         text-align: center;
-        background-color: #26084652;
+        background-color: var(--footer-bg);
         margin-bottom: 10px;
+        transition:
+            background-color 0.25s ease,
+            color 0.25s ease;
     }
 
     .heart {
@@ -201,7 +282,7 @@ body {
         nav a {
             margin: 5px;
         }
-        
+
         .post-media-wrapper {
             max-height: 130px;
         }
@@ -227,11 +308,11 @@ body {
                 }
 
                 .sidenav {
-                    order: 3
+                    order: 3;
                 }
 
                 .sidenav a:hover {
-                    color: rgb(104, 156, 253);;
+                    color: rgb(104, 156, 253);
                 }
 
                 .content {
@@ -245,5 +326,42 @@ body {
                 }
             }
         }
+    }
+}
+
+// the button bruv
+.theme-toggle {
+    position: fixed;
+    bottom: 24px;
+    right: 24px;
+    z-index: 9999;
+    width: 42px;
+    height: 42px;
+    border-radius: 50%;
+    border: 1.5px solid var(--toggle-border);
+    background: var(--toggle-bg);
+    color: var(--fg);
+    font-size: 18px;
+    line-height: 1;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    backdrop-filter: blur(8px);
+    -webkit-backdrop-filter: blur(8px);
+    transition:
+        background 0.25s ease,
+        border-color 0.25s ease,
+        transform 0.15s ease,
+        color 0.25s ease;
+
+    &:hover {
+        transform: scale(1.12);
+        border-color: var(--link);
+        color: var(--link);
+    }
+
+    &:active {
+        transform: scale(0.95);
     }
 }

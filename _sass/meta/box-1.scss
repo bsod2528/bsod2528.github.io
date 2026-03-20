@@ -1,14 +1,14 @@
 .box-1 {
     padding: 5px;
     width: 100%;
-    background-color: #28292c;
+    background-color: var(--box-one-bg-colour);
     box-sizing: border-box;
 }
 
 .box-2 {
     padding: 5px;
     width: 100%;
-    background-color: #28292c;
+    background-color: var(--box-one-bg-colour);
     box-sizing: border-box;
     text-align: center;
 }

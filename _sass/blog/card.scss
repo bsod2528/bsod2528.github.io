@@ -4,9 +4,10 @@
         margin: auto;
         margin-bottom: 20px;
         padding: 10px;
-        background-color: rgb(49, 49, 49);
-        border: 2px solid rgb(80, 80, 80);
+        background-color: var(--card-bg);
+        border: 2px solid var(--card-border);
         box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        transition: background-color 0.25s ease, border-color 0.25s ease;
 
         .b-media-wrapper {
             overflow: hidden;
@@ -22,8 +23,8 @@
 
         .b-tag {
             display: inline-block;
-            background-color: rgb(185, 245, 167);
-            color: black;
+            background-color: var(--tag-bg);
+            color: var(--tag-colour);
             transition: background-color 0.3s, color 0.3s;
             text-decoration: none;
         }
@@ -34,10 +35,11 @@
         }
 
         .b-excerpt {
-            background-color: rgb(27, 27, 27);
+            background-color: var(--excerpt-bg);
+            transition: background-color 0.25s ease;
 
             .b-excerpt-content {
-                border: 2px solid rgb(80, 80, 80);
+                border: 2px solid var(--card-border);
                 padding-left: 5px;
                 padding-right: 5px;
             }
