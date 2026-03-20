@@ -10,55 +10,56 @@ toc: false
 -->
 
 <div class="venture-container">
-    <h2 class="v-title">CORDIC Accelerator</h2>
-    <p class="v-description">A simple peripheral for the Vyommedha SBC.</p>
+    <h2 class="v-title">VR16 CPU</h2>
+    <p class="v-description">A simple 16-bit RISC based CPU!</p>
     <div class="v-language">
-        <span>Verilog (98.2%)</span>
+        <span>Verilog (46.9%)</span>
         <div class="v-progress-wrapper">
-            <div class="v-progress-bar" style="width: 98.2%; background-color: #b2b7f8;"></div>
+            <!--<div class="v-progress-bar" style="width: 46.9%; background-color: #b2b7f8;"></div>-->
+            <div class="v-progress-bar" style="--bar-width: 54.6%; background-color: #b2b7f8;"></div>
         </div>
     </div>
     <div class="v-language">
-        <span>Shell (1.8%)</span>
+        <span>Python (41.4)</span>
         <div class="v-progress-wrapper">
-            <div class="v-progress-bar" style="width: 1.8%; background-color: #89e051;"></div>
+            <div class="v-progress-bar" style="--bar-width: 41.4%; background-color: #3572A5"></div>
         </div>
     </div>
-    <a href="https://github.com/ApoorvaGithubAmargol/Cordic_Peripheral_SBC" class="v-link">Source Code</a>
-    <a href="/pages/projects/cordic.html" class="v-link">Read More</a>
+    <div class="v-language">
+        <span>SystemVerilog (10.6)</span>
+        <div class="v-progress-wrapper">
+            <div class="v-progress-bar" style="--bar-width: 10.6%; background-color: #DAE1C2"></div>
+        </div>
+    </div>
+    <div class="v-language">
+        <span>Shell (1.1%)</span>
+        <div class="v-progress-wrapper">
+            <div class="v-progress-bar" style="--bar-width: 1.1%; background-color: #89e051;"></div>
+        </div>
+    </div>
+    <a href="https://github.com/bsod2528/cpu" class="v-link">Source Code</a>
+    <a href="/pages/projects/vr16.html" class="v-link">Read More</a>
 </div>
 
 {:.space}
 
 <div class="venture-container">
-    <h2 class="v-title">VR16 CPU</h2>
-    <p class="v-description">A simple 16-bit RISC based CPU!</p>
+    <h2 class="v-title">CORDIC Accelerator</h2>
+    <p class="v-description">A simple peripheral for the Vyommedha SBC.</p>
     <div class="v-language">
-        <span>Verilog (54.6%)</span>
+        <span>Verilog (98.2%)</span>
         <div class="v-progress-wrapper">
-            <div class="v-progress-bar" style="width: 54.6%; background-color: #b2b7f8;"></div>
+            <div class="v-progress-bar" style="--bar-width: 98.2%; background-color: #b2b7f8;"></div>
         </div>
     </div>
     <div class="v-language">
-        <span>Python (36.6)</span>
+        <span>Shell (1.8%)</span>
         <div class="v-progress-wrapper">
-            <div class="v-progress-bar" style="width: 36.6%; background-color: #3572A5"></div>
+            <div class="v-progress-bar" style="--bar-width: 1.8%; background-color: #89e051;"></div>
         </div>
     </div>
-    <div class="v-language">
-        <span>SystemVerilog (8.1)</span>
-        <div class="v-progress-wrapper">
-            <div class="v-progress-bar" style="width: 8.1%; background-color: #DAE1C2"></div>
-        </div>
-    </div>
-    <div class="v-language">
-        <span>Shell (0.7%)</span>
-        <div class="v-progress-wrapper">
-            <div class="v-progress-bar" style="width: 0.7%; background-color: #89e051;"></div>
-        </div>
-    </div>
-    <a href="https://github.com/bsod2528/cpu" class="v-link">Source Code</a>
-    <a href="/pages/projects/vr16.html" class="v-link">Read More</a>
+    <a href="https://github.com/ApoorvaGithubAmargol/Cordic_Peripheral_SBC" class="v-link">Source Code</a>
+    <a href="/pages/projects/cordic.html" class="v-link">Read More</a>
 </div>
 
 {:.space}
@@ -71,13 +72,13 @@ toc: false
     <div class="v-language">
         <span>Python (95%)</span>
         <div class="v-progress-wrapper">
-            <div class="v-progress-bar" style="width: 95%; background-color: #3572A5"></div>
+            <div class="v-progress-bar" style="--bar-width: 95%; background-color: #3572A5"></div>
         </div>
     </div>
     <div class="v-language">
         <span>PostgreSQL (5%)</span>
         <div class="v-progress-wrapper">
-            <div class="v-progress-bar" style="width: 5%; background-color: #e38c00"></div>
+            <div class="v-progress-bar" style="--bar-width: 5%; background-color: #e38c00"></div>
         </div>
     </div>
     <a href="https://github.com/bsod2528/Geralt" class="v-link">Source Code</a>
@@ -94,7 +95,7 @@ toc: false
     <div class="v-language">
         <span>Python (100%)</span>
         <div class="v-progress-wrapper">
-            <div class="v-progress-bar" style="width: 100%; background-color: #3572A5;"></div>
+            <div class="v-progress-bar" style="--bar-width: 100%; background-color: #3572A5;"></div>
         </div>
     </div>
     <a href="https://github.com/bsod2528/Beach-Bot" class="v-link">Source Code</a>
