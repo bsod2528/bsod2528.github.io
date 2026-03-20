@@ -25,7 +25,7 @@ We will be discussing and diving into various topics, so this is gonna be a long
 
 ## Time and Life
 {%
-    include blog-image.html
+    include blog_image.html
     src="/assets/images/blog-14-time-and-life.jpg"
 %}
 
@@ -56,7 +56,7 @@ It was extremely reality-distorting and dissasociating after reading them both. 
 
 ## End Goal
 {%
-    include blog-image.html
+    include blog_image.html
     src="/assets/images/blog-14-end-goal.jpg"
 %}
 
@@ -77,7 +77,7 @@ To be sucked into different lores; listening to musical bands, usage of certain 
 
 # What needs to be done
 {%
-    include blog-image.html
+    include blog_image.html
     src="/assets/images/blog-14-conclusion.jpg"
 %}
 

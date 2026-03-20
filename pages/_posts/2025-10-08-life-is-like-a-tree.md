@@ -14,7 +14,7 @@ Image Credits: [https://in.pinterest.com/pin/10625749118807719/](https://in.pint
 
 # How, What?
 {%
-    include blog-image.html
+    include blog_image.html
     src="/assets/images/blog-15-cillian-excuse-me.gif"
 %}
 
@@ -57,7 +57,7 @@ Similarly our lives are a result of this. Our actions are correlated with the tr
 
 # Correlation Time
 {%
-    include blog-image.html
+    include blog_image.html
     src="/assets/images/blog-15-connect-dots.gif"
 %}
 
@@ -117,7 +117,7 @@ We never know who gets what, so yeah.
 
 # Where am I going with this?
 {%
-    include blog-image.html
+    include blog_image.html
     src="/assets/images/blog-15-tired-joji.jpg"
 %}
 
