@@ -57,6 +57,10 @@
     --box-one-bg-colour: #e0d6f9;
 }
 
+[data-theme="light"] .sparkles img {
+    content: url("/assets/images/sparkles-light.png");
+}
+
 @import url("https://fonts.googleapis.com/css2?family=Noto+Sans+Mono:wght@100..900&display=swap");
 
 ::selection {
