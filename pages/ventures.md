@@ -15,26 +15,25 @@ toc: false
     <div class="v-language">
         <span>Verilog (46.9%)</span>
         <div class="v-progress-wrapper">
-            <!--<div class="v-progress-bar" style="width: 46.9%; background-color: #b2b7f8;"></div>-->
-            <div class="v-progress-bar" style="--bar-width: 54.6%; background-color: #b2b7f8;"></div>
+            <div class="v-progress-bar" style="--bar-width: 46.9%; background-color: #b2b7f8;"></div>
         </div>
     </div>
     <div class="v-language">
         <span>Python (41.4)</span>
         <div class="v-progress-wrapper">
-            <div class="v-progress-bar" style="--bar-width: 41.4%; background-color: #3572A5"></div>
+            <div class="v-progress-bar" style="--bar-width: 43.2%; background-color: #3572A5"></div>
         </div>
     </div>
     <div class="v-language">
         <span>SystemVerilog (10.6)</span>
         <div class="v-progress-wrapper">
-            <div class="v-progress-bar" style="--bar-width: 10.6%; background-color: #DAE1C2"></div>
+            <div class="v-progress-bar" style="--bar-width: 9.5%; background-color: #DAE1C2"></div>
         </div>
     </div>
     <div class="v-language">
         <span>Shell (1.1%)</span>
         <div class="v-progress-wrapper">
-            <div class="v-progress-bar" style="--bar-width: 1.1%; background-color: #89e051;"></div>
+            <div class="v-progress-bar" style="--bar-width: 0.4%; background-color: #89e051;"></div>
         </div>
     </div>
     <a href="https://github.com/bsod2528/cpu" class="v-link">Source Code</a>

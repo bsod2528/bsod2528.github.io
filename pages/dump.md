@@ -6,32 +6,29 @@ anchor: false
 sidenav: false
 ---
 # Dump
-## 2026
-### January
-- Finish mixing and mastering of my songs hehe (4 in total).
+## 2026### March
+- Finished RTL of the vr16 cpu and assembler.
+- Implemented it all on an FPGA
 
 ### February
 - Came up with the script for the music video!
 - Start focusing on my CPU a bit more.
 
-### March
-- Finished RTL of the vr16 cpu and assembler.
+### January
+- Finish mixing and mastering of my songs hehe (4 in total).
 
 - - -
 
 ## 2025
-### July
-- finished summer internship at a pcb design company (all vlsi companies asked 3 to 6 months and my college didn't let me).
-- rethinking life choices.
-- delaying my debut ep <span class="cb"> unrequited love</span>.
-- starting gate exam prep.
-- started 60 days x 20km winter challenge for cycling.
-- finished reading marutigeeta book and started reading the illiad.
+### December
+- Finished 7th semester.
+- Started mixing unrequited love ep really hard and did really well.
+- Focusing on mental health a bit more.
+- Didn't complete the <span class="cb">60x20</span>km winter cycling challenge.
+- Started reading <span class="cb">Computer Principles and Design in Verilog</span> by Prof. Dr. Yamin Li.
 
-### August
-- Pixel 10 is actually sexy, but I'm broke to buy it.
-- Obsidian bases feature was initially extremely overwhelming, now I just use it as a file explorer inside my vault ahahhahaha.
-- I'd rather kill myself trying to fix my Arch setup and HATE microsoft with how bad windows is rather than try Apple after watching [this video](https://www.youtube.com/watch?v=--5wLkbb1Z8). I don't hate Apple's engineering, just their management.
+### November
+- Switched to fedora permanently, it's just easier.
 
 ### September
 - Assetta Corsa is one of the best games to blow of steam in terms of frustration. Gives you full control over what and when to go in high speed thus, you know helping out getting the "stuff" from our hearts.
@@ -39,12 +36,15 @@ sidenav: false
 - Rotted this month, kept questioning what to do next and whether my plan was correct or not for life.
 - Participated in the Vyomedha SBC Peripheral competition by submitting a cordic accelerator with collaboration with a friend of mine.
 
-### November
-- Switched to fedora permanently, it's just easier.
+### August
+- Pixel 10 is actually sexy, but I'm broke to buy it.
+- Obsidian bases feature was initially extremely overwhelming, now I just use it as a file explorer inside my vault ahahhahaha.
+- I'd rather kill myself trying to fix my Arch setup and HATE microsoft with how bad windows is rather than try Apple after watching [this video](https://www.youtube.com/watch?v=--5wLkbb1Z8). I don't hate Apple's engineering, just their management.
 
-### December
-- Finished 7th semester.
-- Started mixing unrequited love ep really hard and did really well.
-- Focusing on mental health a bit more.
-- Didn't complete the <span class="cb">60x20</span>km winter cycling challenge.
-- Started reading <span class="cb">Computer Principles and Design in Verilog</span> by Prof. Dr. Yamin Li.
+### July
+- finished summer internship at a pcb design company (all vlsi companies asked 3 to 6 months and my college didn't let me).
+- rethinking life choices.
+- delaying my debut ep <span class="cb"> unrequited love</span>.
+- starting gate exam prep.
+- started 60 days x 20km winter challenge for cycling.
+- finished reading marutigeeta book and started reading the illiad.

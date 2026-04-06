@@ -1,0 +1,16 @@
+<!--
+{%comment%}
+    {% include blog_video.html src="/assets/videos/fpga-demo.mp4" %}
+    {% include blog_video.html src="/assets/videos/fpga-demo.mp4" crop=true %}
+    {% include blog_video.html src="/assets/videos/fpga-demo.mp4" crop=true caption="..." %}
+{%endcomment%}
+-->
+
+<div class="post-video-wrapper{% if include.crop %} post-video-wrapper--crop{% endif %}">
+    <video class="post-video" autoplay muted loop playsinline>
+        <source src="{{ include.src }}" type="video/mp4" />
+    </video>
+</div>
+{% if include.caption %}
+<p class="post-video-caption">{{ include.caption }}</p>
+{% endif %}
