@@ -10,6 +10,14 @@ toc: false
 -->
 
 <div class="venture-container">
+    <h2 class="v-title">you - single</h2>
+    <p class="v-description">My debut single as a musician!</p>
+    <a href="/pages/projects/you_single.html" class="v-link">Read More</a>
+</div>
+
+{:.space}
+
+<div class="venture-container">
     <h2 class="v-title">VR16 CPU</h2>
     <p class="v-description">A simple 16-bit RISC based CPU!</p>
     <div class="v-language">
