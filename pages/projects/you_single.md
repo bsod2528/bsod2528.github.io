@@ -25,3 +25,8 @@ First snippet below:
   src="/assets/you_ending_snippet.mp3"
 %}
 
+Second snippet below:
+{%
+  include blog_audio.html
+  src="/assets/you_snippet_2.mp3"
+%}
