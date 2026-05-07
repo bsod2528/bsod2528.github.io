@@ -12,7 +12,7 @@ toc: false
 <div class="venture-container">
     <h2 class="v-title">you - single</h2>
     <p class="v-description">My debut single as a musician!</p>
-    <a href="/pages/projects/you_single.html" class="v-link">Read More</a>
+    <a href="/pages/projects/you.html" class="v-link">Read More</a>
 </div>
 
 {:.space}
