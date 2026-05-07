@@ -6,7 +6,13 @@ anchor: false
 sidenav: false
 ---
 # Dump
-## 2026### March
+## 2026
+### April
+Setup gitea so I can visualise my git repo that init in my obsidian vault hehe. I didn't want to upload it to github so yeha.
+- <a href="./projects/you_single.html">you</a> has been released and I've become an ear worm to few people hehe.
+- Attended mirabilis design hackathon
+
+### March
 - Finished RTL of the vr16 cpu and assembler.
 - Implemented it all on an FPGA
 
