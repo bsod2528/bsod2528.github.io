@@ -10,6 +10,14 @@ toc: false
 -->
 
 <div class="venture-container">
+    <h2 class="v-title">unrequited love - ep</h2>
+    <p class="v-description">My debut ep as a musician!</p>
+    <a href="/pages/projects/unrequited-love.html" class="v-link">Read More</a>
+</div>
+
+{:.space}
+
+<div class="venture-container">
     <h2 class="v-title">you - single</h2>
     <p class="v-description">My debut single as a musician!</p>
     <a href="/pages/projects/you.html" class="v-link">Read More</a>

@@ -6,9 +6,9 @@ anchor: true
 sidenav: false
 ---
 # you
-{% include blog_cover.html src="/assets/images/you_cover.png" %}
+{% include blog_cover.html src="/assets/images/music/you_cover.png" %}
 
-I'm glad to announce the release of my ever single named "you". It's the 4th track in my upcoming ep named "unrequited love".
+I'm glad to announce the release of my first ever single named <span class="cb">you</span>. It's the 4th track in my upcoming ep named [unrequited love](/pages/projects/unrequited-love.html).
 
 Song is going to be released on 24-04-2026 (dd-mm-yyyy) on all streaming platforms! Heheh.
 
