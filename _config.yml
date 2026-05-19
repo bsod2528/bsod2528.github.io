@@ -2,7 +2,7 @@
 title: bsod's hub
 description: this is the bluescreen's profile hehe.
 baseurl: ""
-url: "https://bsod2528.github.io" 
+url: "https://bsod2528.github.io"
 
 # build settings
 markdown: kramdown
@@ -15,6 +15,8 @@ collections:
   vr16-docs:
     output: true
   geralt-docs:
+    output: true
+  unrequited-love:
     output: true
 collections_dir: pages
 

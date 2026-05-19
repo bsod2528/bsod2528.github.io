@@ -7,7 +7,21 @@ sidenav: false
 ---
 # Hello World
 
-<iframe src="https://show.co/social-unlock/2QLshcb1ghAWFF3v3yMCBg/widget" width="100%" height="300" frameborder="0"></iframe>
+<div class="obsidian-embed-wrapper">
+    <a href="/pages/projects/unrequited-love.html" class="obsidian-embed">
+      <span class="oe-title">📄 unrequited-love</span>
+      <img src="/assets/images/music/unrequited_love.png" class="oe-preview" alt="unrequited love cover" />
+    </a>
+</div>
+
+<!--<a href="/pages/projects/unrequited-love.html" class="obsidian-embed">
+  <span class="oe-title">📄 unrequited-love</span>
+  <div class="oe-content">
+    <!-- put a short excerpt or description here
+    A story that never got told. A collection of songs about longing, loss, and everything in between.
+  </div>
+</a>
+-->
 
 Welcome to my world! This is a place where I blog sometimes regarding mostly on technology, environment, life, and my useless rants lol. Enjoy your stay &#10024;&#10024; 
 
