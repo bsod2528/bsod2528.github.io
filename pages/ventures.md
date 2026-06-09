@@ -9,23 +9,35 @@ toc: false
     Colours are taken from: https://github.com/ozh/github-colors/blob/master/colors.json
 -->
 
-<div class="venture-container">
+<div class="v-filter">
+    <button class="v-filter-btn active" data-filter="all">[all]</button>
+    <button class="v-filter-btn" data-filter="tech">[tech]</button>
+    <button class="v-filter-btn" data-filter="music">[music]</button>
+</div>
+
+<div class="venture-container" data-category="music">
     <h2 class="v-title">unrequited love - ep</h2>
+    <a href="/pages/projects/unrequited-love.html" class="obsidian-embed">
+        <span class="oe-title">📄 unrequited-love</span>
+        <img src="/assets/images/music/unrequited_love.png" class="oe-preview" alt="unrequited love cover">
+    </a>
     <p class="v-description">My debut ep as a musician!</p>
-    <a href="/pages/projects/unrequited-love.html" class="v-link">Read More</a>
 </div>
 
 {:.space}
 
-<div class="venture-container">
+<div class="venture-container" data-category="music">
     <h2 class="v-title">you - single</h2>
+    <a href="/pages/projects/you.html" class="obsidian-embed">
+        <span class="oe-title">📄 you-single</span>
+        <img src="/assets/images/music/you_cover.png" class="oe-preview" alt="unrequited love cover">
+    </a>
     <p class="v-description">My debut single as a musician!</p>
-    <a href="/pages/projects/you.html" class="v-link">Read More</a>
 </div>
 
 {:.space}
 
-<div class="venture-container">
+<div class="venture-container" data-category="tech">
     <h2 class="v-title">VR16 CPU</h2>
     <p class="v-description">A simple 16-bit RISC based CPU!</p>
     <div class="v-language">
@@ -58,7 +70,7 @@ toc: false
 
 {:.space}
 
-<div class="venture-container">
+<div class="venture-container" data-category="tech">
     <h2 class="v-title">CORDIC Accelerator</h2>
     <p class="v-description">A simple peripheral for the Vyommedha SBC.</p>
     <div class="v-language">
@@ -79,7 +91,7 @@ toc: false
 
 {:.space}
 
-<div class="venture-container">
+<div class="venture-container" data-category="tech">
     <h2 class="v-title">Geralt</h2>
     <p class="v-description">
         Discord bot written in <a href="https://github.com/Rapptz/discord.py">discord.py</a>!
@@ -102,7 +114,7 @@ toc: false
 
 {:.space}
 
-<div class="venture-container">
+<div class="venture-container" data-category="tech">
     <h2 class="v-title">Beach Bot</h2>
     <p class="v-description">
         Another discord bot written in <a href="https://github.com/Rapptz/discord.py">discord.py</a>, yet this one is a guide.
@@ -116,3 +128,6 @@ toc: false
     <a href="https://github.com/bsod2528/Beach-Bot" class="v-link">Source Code</a>
     <a href="/pages/projects/beach-bot.html" class="v-link">Read More</a>
 </div>
+
+<script src="/assets/js/project_toggler.js"></script>
+<script>initVentureFilter();</script>

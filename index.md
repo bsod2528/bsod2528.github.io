@@ -14,16 +14,10 @@ sidenav: false
     </a>
 </div>
 
-<!--<a href="/pages/projects/unrequited-love.html" class="obsidian-embed">
-  <span class="oe-title">📄 unrequited-love</span>
-  <div class="oe-content">
-    <!-- put a short excerpt or description here
-    A story that never got told. A collection of songs about longing, loss, and everything in between.
-  </div>
-</a>
--->
+Welcome to my world! This is a place where I blog sometimes regarding mostly on technology, environment, life, and my useless rants lol. 
 
-Welcome to my world! This is a place where I blog sometimes regarding mostly on technology, environment, life, and my useless rants lol. Enjoy your stay &#10024;&#10024; 
+I also promote my own music here so yeah! Enjoy your stay &#10024;&#10024;
+
 
 ## Tech Stack
 A small legend for the below list:

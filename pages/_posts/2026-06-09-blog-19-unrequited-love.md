@@ -1,0 +1,140 @@
+---
+title: "Unrequited Love!!"
+layout: post
+media: /assets/blogs/blog-19.jpg
+toc: true
+tags: music
+anchor: false
+sidenav: false
+blog_no: 19
+---
+
+All about my debut ep :D
+
+image credits: [https://in.pinterest.com/pin/1092122978528368396/](https://in.pinterest.com/pin/1092122978528368396/)
+{:.caption}
+
+In case you haven't streamed it click on the link below!
+
+<div class="obsidian-embed-wrapper">
+    <a href="/pages/projects/unrequited-love.html" class="obsidian-embed">
+      <span class="oe-title">📄 unrequited-love</span>
+      <img src="/assets/images/music/unrequited_love.png" class="oe-preview" alt="unrequited love cover" />
+    </a>
+</div>
+
+# Go on?
+
+{%
+  include blog_image.html
+  src="/assets/images/blog-19-go-on.jpg"
+  alt="beautiful-nature-depicting-time"
+%}
+
+image credits: [https://in.pinterest.com/pin/620652392394586806/](https://in.pinterest.com/pin/620652392394586806/)
+{:.caption}
+
+This ep is very special to me for various different reasons. It's an emotional piece that I wrote during tough times and uhh yeah!
+
+Also a major tribute to my FAVOURITE artist [mr. jojer](https://en.wikipedia.org/wiki/Joji_(musician)) cause I love his music and he's just an awesome lad.
+
+I was part of developer servers (discord.py and shoot-offs) and I had showcased few audio memes and mini snippets at the time, so yeah.
+
+## How it started
+I was on discord and few people were like, you should release music if you want and I was like screw it and I started immediately.
+
+The songs you listend to were not initially there at all. You was a last minute add-on and I removed another song from this cause of YOU alone lmao.
+
+Spent nearly 4 years on this entire journey. Writing lyrics and coming up with a composition for the chorus was probably the easiest.
+
+Apart from that, expanding it to a song was where I struggled cause that's something I've never done before.
+
+First off had to come up with a story and I took inspiration from what I was going through and added pazaaz (<img class="emote" src="/assets/images/emotes/donkey_stare.png" />) and yeah!
+
+### 1st track - Whispers of a Bond Untold
+This started off as a small beat that I was fiddling around imagining a villain entering, then I added a drop and imagined how the drop would be if I had put in the Interstellar chords.
+
+And my gosh it was amazing, from there my younger sister blabbered few tunes along while I was making this AND THAT my friends is the chorus for the entire song.
+
+She composed the chorus HAHAHA and she was like 8 or 9? Yeah something like that.
+
+### 2nd track - Awkward Distance
+My school friend and I collaborated on this. Nshanted is a mad rapper and lyricist. He introduced me to beat boxing which helped so much in general production wise.
+
+This beat to this song is inspired by [Katchi Sera by Sai Abhyankkar](https://www.youtube.com/watch?v=VU23OPQ1Pmc).
+
+Actually first off again, I was trying to make a SLOW and soundtrack type soundscape. The piano melody was going on at like 70bpm at the time I was working on it.
+
+The entire "awkward distance" chorus had a different tune and production which now sounds extremely amateur. 
+
+I just bumped the bpm to like 140? And BOOM it just clicked, and got a new tune for the song which is now what is live.
+
+I used to go to nshanted's house every now and then and he would just pen down beautiful lyrics.
+
+### 3rd track - What If
+This was genuinely not supposed to be in the EP. I had a different song, but yeah. 
+
+There was this [trap queen cinematic meme](www.youtube.com/watch?v=j5I2zLTzyWA) and I wanted to do something like this. 
+
+I woke up one morning at 5am, and started doing this what if song. In all honesty, it sounds NOTHING like what the meme remix sounds like, but yeah it's something beautiful and has the cornfield chase vibes to it.
+
+### 4th track - You
+Again, like any other song on this EP, this was totally unplanned. I did the entire chorus section both lyrics, composition, and the production in like 30 minutes at my grandparents house lmaoo. I think it was May 2025, when it happened.
+
+I knew immediately this is going on the EP and uhh yeah! Took few months to write down the verse and come up with the tune for it.
+
+## Timeline
+
+{%
+  include blog_image.html
+  src="/assets/images/blog-19-timeline.jpg"
+  alt="beautiful-nature-depicting-time"
+%}
+
+image credits: [https://in.pinterest.com/pin/577375614757749966/](https://in.pinterest.com/pin/577375614757749966/)
+{:.caption}
+
+I don't know what to name this section in all fairness but yeh.
+
+4 songs 4 years is wild, but I was juggling college studies, mental and physical health, doing new things, CPU project later on, and planning what to do afterwards college.
+
+But yeah it all came out well. 
+
+Whispers of a bond untold vocals were recorded in 2024 itself, remaining 2 songs happened begining of 2025. Awkward distance was re-recorded cause we lost vocal stems lol and that was done in December 2025.
+
+After that, I sat down for mixing. It was my first time mixing with vocals. All this time I was good with generic instruments alone.
+
+Oh by the way, I have no gear, just me, my pc, and my Samsung EHS64 and a pair of OLD sony speakers which the earphones were connected too.
+
+By February all the songs were thoroughly mixed and ready to be shipped and rest is history.
+
+# Gratitude
+
+{%
+  include blog_image.html
+  src="/assets/images/blog-19-gratitude.jpg"
+  alt="gratitude"
+%}
+
+image credits: [https://in.pinterest.com/pin/482659285110142315/](https://in.pinterest.com/pin/482659285110142315/)
+{:.caption}
+
+As of date, I have more than 1000+ streams on spotify and 300+ streams on youtube music!
+
+So to everyone of those who listened to this EP, a genuine thank you to everyone who listened to it, liked it and etc!
+
+A heartful thanks to Nshanted the madlad who was with the entire journey from start to end. My close friends in college who were there to provide updates as listeners. 
+
+My main technical advisor who's my sister for providing the valuable feedback. Jeeva Khz brother for the mixing advice and feedback from each mix. Nearly 15 versions for each song 😭😭 
+
+Huge shoutout to [Ganavi Studio](https://www.instagram.com/ganavistudio/) for providing the amazing studio for recording.
+
+Last but not least, my family for providing the space and encouragement with pursuing music!
+
+Fun fact, they did ask me if I wanted to do Music or something else before college as a degree, but I chose engineering cause I love electronics EQually (pun intended) as I love music :D
+
+More music is coming by the way. My second EP / Album? named Aftermath will be coming soon. Definitely in 2027, but yeah! 
+
+5 song ideas are down and the rest work is to expand them into proper songs, produce, record, mix, and master <img class="emote" src="/assets/images/emotes/devious.png" />
+
+Cannot wait to share more music to the world 😁😁😁

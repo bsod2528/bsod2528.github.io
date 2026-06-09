@@ -17,8 +17,6 @@ credits:
 EP Home Page: [click here](/pages/projects/unrequited-love.html)
 {:.info}
 
-# Lyrics
-NA - this is an instrumental.
 
 # Credits
 {% if page.credits %}
@@ -34,6 +32,9 @@ NA - this is an instrumental.
     </ul>
   </div>
 {% endif %}
+
+# Lyrics
+NA - this is an instrumental.
 
 {%
 	include paginate.html

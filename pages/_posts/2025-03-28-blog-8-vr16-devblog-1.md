@@ -6,6 +6,7 @@ toc: true
 tags: dev-blog cpu-dev vlsi
 anchor: false
 sidenav: false
+blog_no: 8
 ---
 This will be a series of <span class="cb">dev-blogs</span> for my CPU development I've been working on.
 

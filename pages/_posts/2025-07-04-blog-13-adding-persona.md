@@ -6,6 +6,7 @@ toc: true
 tags: updates
 anchor: false
 sidenav: false
+blog_no: 13
 ---
 
 Well, I read on hackernews about Postcard, I was taken aback geniunely!

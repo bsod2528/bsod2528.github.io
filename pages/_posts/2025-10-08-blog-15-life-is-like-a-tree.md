@@ -1,10 +1,12 @@
 ---
 layout: post
+title: "Life is Like a Tree"
 media: /assets/blogs/blog-15.jpg
 toc: true
 tags: life
 anchor: false
 sidenav: false
+blog_no: 15
 ---
 
 Accommodation && Coexistance - something really tough in this world and something most don't follow (I'm trying my best to).

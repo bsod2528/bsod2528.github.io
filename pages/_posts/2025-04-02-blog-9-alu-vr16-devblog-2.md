@@ -6,6 +6,7 @@ toc: true
 tags: dev-blog cpu-dev vlsi
 anchor: false
 sidenav: false
+blog_no: 9
 ---
 ALU is truly difficult that's why lol.
 

@@ -1,10 +1,12 @@
 ---
 layout: post
+title: "Take Care of Your Storage"
 media: /assets/blogs/blog-6.gif
 toc: true
 tags: tech hardware
 anchor: false
 sidenav: false
+blog_no: 6
 ---
 
 Exactly what I meant, here is a small post on how I suffered for two entire days with Windows🤡.

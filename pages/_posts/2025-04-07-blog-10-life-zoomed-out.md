@@ -1,10 +1,12 @@
 ---
 layout: post
+title: "Life Zoomed Out"
 media: /assets/blogs/blog-10.gif
 toc: true
 tags: life
 anchor: false
 sidenav: false
+blog_no: 10
 ---
 
 This isn't about the internet by the way.

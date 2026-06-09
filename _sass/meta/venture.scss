@@ -86,3 +86,30 @@
         }
     }
 }
+
+.v-filter {
+    display: flex;
+    gap: 12px;
+    margin-bottom: 20px;
+    justify-content: center;
+}
+
+.v-filter-btn {
+    font-family: "Noto Sans Mono", monospace;
+    font-size: 1em;
+    background: none;
+    border: none;
+    color: var(--nav-link);
+    cursor: pointer;
+    padding: 0;
+    transition: color 0.2s ease;
+
+    &.active,
+    &:hover {
+        color: var(--link-hover);
+    }
+}
+
+.venture-container[hidden] {
+    display: none;
+}

@@ -1,10 +1,12 @@
 ---
 layout: post
+title: "Will We Ever Wake Up?"
 media: /assets/blogs/blog-14.gif
 toc: true
 tags: life
 anchor: false
 sidenav: false
+blog_no: 14
 ---
 
 Not a rant, rather a sad realisation about our laziness and scoped vision in life.

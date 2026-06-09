@@ -18,6 +18,22 @@ credits:
 EP Home Page: [click here](/pages/projects/unrequited-love.html)
 {:.info}
 
+
+# Credits
+{% if page.credits %}
+  <div class="credits">
+    <ul>
+      {% for credit in page.credits %}
+        <li>
+          <strong>{{ credit[0] }}</strong>
+          <span class="dash">—</span>
+          <span class="value">{{ credit[1] }}</span>
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
+{% endif %}
+
 # Lyrics
 ## Verse 1
 I was living in the darkness  
@@ -72,22 +88,6 @@ Whispers of a bond untold
 Love unspoken secrets unfold  
 She lifts me up eases strife  
 Friendship defines my life  
-
-# Credits
-{% if page.credits %}
-  <div class="credits">
-    <ul>
-      {% for credit in page.credits %}
-        <li>
-          <strong>{{ credit[0] }}</strong>
-          <span class="dash">—</span>
-          <span class="value">{{ credit[1] }}</span>
-        </li>
-      {% endfor %}
-    </ul>
-  </div>
-{% endif %}
-
 
 {%
 	include paginate.html

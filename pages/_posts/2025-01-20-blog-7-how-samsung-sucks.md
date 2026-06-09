@@ -1,10 +1,12 @@
 ---
 layout: post
+title: "How Samsung Sucks"
 media: /assets/blogs/blog-7.gif
 toc: true
 tags: tech hardware
 anchor: false
 sidenav: false
+blog_no: 7
 ---
 From a company I used to respect, to not so total trash. There are justifications for both.
 

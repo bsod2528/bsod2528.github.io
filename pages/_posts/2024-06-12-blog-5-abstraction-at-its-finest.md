@@ -1,10 +1,12 @@
 ---
 layout: post
+title: "Abstraction at it's Finest"
 media: /assets/blogs/blog-5.gif
 toc: true
 tags: life
 anchor: false
 sidenav: false
+blog_no: 5
 ---
 
 We've all known about abstraction right? Well, thats provided you're aware of the concept of <span class="cb">Object Orient Programming</span>. Well if you aren't, it basically allows you to create

@@ -18,6 +18,21 @@ credits:
 EP Home Page: [click here](/pages/projects/unrequited-love.html)
 {:.info}
 
+# Credits
+{% if page.credits %}
+  <div class="credits">
+    <ul>
+      {% for credit in page.credits %}
+        <li>
+          <strong>{{ credit[0] }}</strong>
+          <span class="dash">—</span>
+          <span class="value">{{ credit[1] }}</span>
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
+{% endif %}
+
 # Lyrics
 ## Verse 1
 Started drifting farther  
@@ -71,21 +86,6 @@ Don’t know what to do yet to confront you
 Awkward distance between us  
 Where do I find my escape  
 Feels like you departed to the moon  
-
-# Credits
-{% if page.credits %}
-  <div class="credits">
-    <ul>
-      {% for credit in page.credits %}
-        <li>
-          <strong>{{ credit[0] }}</strong>
-          <span class="dash">—</span>
-          <span class="value">{{ credit[1] }}</span>
-        </li>
-      {% endfor %}
-    </ul>
-  </div>
-{% endif %}
 
 {%
 	include paginate.html

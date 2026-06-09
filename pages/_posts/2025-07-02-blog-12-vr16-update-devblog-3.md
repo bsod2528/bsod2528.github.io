@@ -6,6 +6,7 @@ toc: true
 tags: dev-blog cpu-dev vlsi
 anchor: false
 sidenav: false
+blog_no: 12
 ---
 
 Blogged as per this commit: <a href="https://github.com/bsod2528/cpu/commit/a03ddea555b00e2594c6f16772c364bf0e9e9897">a03ddea555b00e2594c6f16772c364bf0e9e9897</a> 

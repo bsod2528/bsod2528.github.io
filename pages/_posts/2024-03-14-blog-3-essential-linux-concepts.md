@@ -1,10 +1,12 @@
 ---
 layout: post
+title: "Essential Linux Concepts"
 media: /assets/blogs/blog-3.gif
 toc: true
 tags: tech linux
 anchor: false
 sidenav: false
+blog_no: 3
 ---
 
 Welcome back to our Linux learning journey! In this week's edition, we'll continue exploring essential concepts in Linux system administration.

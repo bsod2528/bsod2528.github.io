@@ -34,4 +34,7 @@ My lastfm and spotify say them all, Hans Zimmer, Ludwig Göransson, and Joji tak
 - [Discord](https://discord.com/users/750979369001811982)
 - [GitHub](https://github.com/bsod2528)
 - [LastFM](https://www.last.fm/user/BSOD2528)
-- [Spotify](https://open.spotify.com/user/hsne7tb0pgowleur3x60ieu1w?si=3ca3469db62f4501)
+- [Spotify Listener Profile](https://open.spotify.com/user/hsne7tb0pgowleur3x60ieu1w?si=3ca3469db62f4501)
+- [Spotify Artist Profile]()
+- [YouTube Artist Profile](https://www.youtube.com/channel/UCSgkA3y-YX7QYZOr7ZdAg7w)
+- [Apple Music Artist Profile](https://music.apple.com/us/artist/imav/1887411211)

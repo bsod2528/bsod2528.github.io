@@ -6,6 +6,7 @@ toc: true
 tags: life
 anchor: false
 sidenav: false
+blog_no: 11
 ---
 
 Is that the entire purpose of humankind?

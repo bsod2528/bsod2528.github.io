@@ -1,10 +1,12 @@
 ---
 layout: post
+title: "Files, Processess, and Networking"
 media: /assets/blogs/blog-4.gif
 toc: true
 tags: tech linux
 anchor: false
 sidenav: false
+blog_no: 4
 ---
 
 For this week, we will delve into three fundamental aspects of Linux: file manipulation commands, process management, and networking basics. These topics are essential for anyone looking to gain a deeper understanding of how to use and manage a Linux system effectively.

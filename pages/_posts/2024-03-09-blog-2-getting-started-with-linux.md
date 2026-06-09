@@ -1,10 +1,12 @@
 ---
 layout: post
+title: "Getting Started With Linux"
 media: /assets/blogs/blog-2.gif
 toc: true
 tags: tech linux
 anchor: false
 sidenav: false
+blog_no: 2
 ---
 
 Created by [Linus Torvalds](https://www.wikiwand.com/en/Linus_Torvalds) in the 90s to have his own free version of UNIX which was closed source. Initially named “freax” where the `free` denotes free OS and `x` denoted Unix like. Later named `Linux` as it was and is Linus’s version of UNIX. History can be learnt by watching many videos or reading online. All we need to know is the how and what’s of Linux.

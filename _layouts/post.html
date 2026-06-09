@@ -67,6 +67,8 @@
                         {% else %}
                             <a href="/pages/tags.html#{{page.tags}}"><span class="b-tag">{{ page.tags | join: " | " }}</span></a>
                         {% endif %}
+                        <br><br>
+                        <span class="b-number">Blog No.: {{ page.blog_no }}</span>
                         {{ content }}
                     {% endif %}
                     <hr>

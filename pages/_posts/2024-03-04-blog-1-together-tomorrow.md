@@ -1,10 +1,12 @@
 ---
 layout: post
+title: "Together Tomorrow"
 media: /assets/blogs/blog-1.gif
 toc: true
 tags: environment
 anchor: false
 sidenav: false
+blog_no: 1
 ---
 
 The world we live in is indeed a special place. We are taking it for granted. Should we stop or slow down? The answer is we should indeed slow down. How so? Wouldn't that affect

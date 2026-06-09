@@ -118,6 +118,6 @@ total_size=$(du -sh --exclude=.git --exclude=_site --exclude=.jekyll-cache . | a
 echo "- Total project size (Excluding .git): <span class='cb'>$total_size</span>" >> _includes/code_stats.html
 
 full_size=$(du -sh . | awk '{print $1}')
-echo "- Total sroject size (Including .git): <span class='cb'>$full_size</span>" >> _includes/code_stats.html
+echo "- Total project size (Including .git): <span class='cb'>$full_size</span>" >> _includes/code_stats.html
 
 echo "Done! Open 'http://127.0.0.1:4000/pages/stats.html' to see your stats."

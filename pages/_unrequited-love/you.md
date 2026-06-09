@@ -18,6 +18,21 @@ credits:
 EP Home Page: [click here](/pages/projects/unrequited-love.html)
 {:.info}
 
+# Credits
+{% if page.credits %}
+  <div class="credits">
+    <ul>
+      {% for credit in page.credits %}
+        <li>
+          <strong>{{ credit[0] }}</strong>
+          <span class="dash">—</span>
+          <span class="value">{{ credit[1] }}</span>
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
+{% endif %}
+
 # Lyrics
 ## Verse 
 Late nights staring at the ceiling  
@@ -56,19 +71,3 @@ My head, can't take this anymore
 Every thought brings me, back to  
 You ooooo don't know what I'm  
 Supposed to do with you ooooo.  
-
-# Credits
-{% if page.credits %}
-  <div class="credits">
-    <ul>
-      {% for credit in page.credits %}
-        <li>
-          <strong>{{ credit[0] }}</strong>
-          <span class="dash">—</span>
-          <span class="value">{{ credit[1] }}</span>
-        </li>
-      {% endfor %}
-    </ul>
-  </div>
-{% endif %}
-
