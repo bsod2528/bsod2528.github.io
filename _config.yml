@@ -42,3 +42,6 @@ exclude:
   - vendor/gems/
   - vendor/ruby/
   - .github/
+
+excerpt_separator: "<!--more-->"
+
