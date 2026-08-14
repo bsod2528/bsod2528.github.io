@@ -7,6 +7,16 @@ sidenav: false
 ---
 # Dump
 ## 2026
+### July
+- j\*b
+
+### June
+- j\*b 
+
+### May
+- Got a job at Mirabilis Design as an R&D Engineer as I won in the hackathon conducted by them.
+- Released [unrequited love](/pages/projects/unrequited-love.html) on all platforms.
+
 ### April
 Setup gitea so I can visualise my git repo that init in my obsidian vault hehe. I didn't want to upload it to github so yeha.
 - <a href="./projects/you_single.html">you</a> has been released and I've become an ear worm to few people hehe.
